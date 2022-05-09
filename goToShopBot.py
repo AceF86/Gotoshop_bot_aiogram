@@ -332,24 +332,6 @@ async def read_produkts2(callback_query: types.CallbackQuery, state: FSMContext)
            )
 
 
-async def news_every_minute():
-    hours = 60 * 60
-    admin_id = "552974553"
-    while True:
-        try:
-            get_gotoshop.main()
-            text = 'Обновився'
-        except Exception as ex:
-            text = f'Не обновився {ex}'
-        await bot.send_message(chat_id=admin_id, text=text)
-        await asyncio.sleep(4 * hours)
-
-
 if __name__ == "__main__":
-    loop = asyncio.get_event_loop()
-    loop.create_task(news_every_minute())
-    try:
-        executor.start_polling(dp, skip_updates=True)
-    except:
-        pass
-
+   executor.start_polling(dp, skip_updates=True)
+    
