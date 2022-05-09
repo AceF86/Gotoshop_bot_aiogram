@@ -13,7 +13,7 @@ import asyncio
 
 
 
-TOKEN = '2143038264:AAEcpzv7kTrDXWJ0jEIf_jhF4cjmkiYdhHc'
+TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
