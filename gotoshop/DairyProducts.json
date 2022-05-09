@@ -1,0 +1,643 @@
+[
+        {
+                "id": "2927436",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Сметана",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927436-163568-782916456198693211-336.jpg?t=t1645619826",
+                        "w": 336,
+                        "h": 587
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927436-163568-782916456198693211.jpg?t=t1645619890",
+                        "w": 1024,
+                        "h": 1789
+                },
+                "countPlus": "0",
+                "countMinus": 3,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-782916456198693211/",
+                "liked": 0,
+                "desc": "Сметана. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2930339",
+                "pricebefore": "59.99",
+                "priceafter": "49.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/moloko-kokosove-thai-coco-zgushchene",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Молоко кокосове Thai Coco згущене, 320г",
+                "name": "Молоко кокосове Thai Coco згущене, 320г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930339-163599-moloko-kokosove-thai-coco-zgushhene-320g-336.jpg?t=t1645655892",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930339-163599-moloko-kokosove-thai-coco-zgushhene-320g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-moloko-kokosove-thai-coco-zgushhene-320g/",
+                "liked": 0,
+                "desc": "Молоко кокосове Thai Coco згущене, 320г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "4162",
+                                "nameru": "",
+                                "name_orig": "Thai Сoco",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4162"
+                        }
+                ]
+        },
+        {
+                "id": "2930013",
+                "pricebefore": "57.99",
+                "priceafter": "43.99",
+                "discount_type": "",
+                "discount": "24",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/vershki-ultrapasterizovani-selianski-20",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Вершки ультрапастеризовані «Селянські» 20%, 500г",
+                "name": "Вершки ультрапастеризовані «Селянські» 20%, 500г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930013-163598-vershki-ultrapasterizovani-selyanski-20-500g-336.jpg?t=t1645655707",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930013-163598-vershki-ultrapasterizovani-selyanski-20-500g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 4,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-vershki-ultrapasterizovani-selyanski-20-500g/",
+                "liked": 0,
+                "desc": "Вершки ультрапастеризовані «Селянські» 20%, 500г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5152",
+                                "nameru": "Селянське",
+                                "name_orig": "Селянське",
+                                "name": "Селянське",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5152"
+                        }
+                ]
+        },
+        {
+                "id": "2930012",
+                "pricebefore": "32.69",
+                "priceafter": "23.99",
+                "discount_type": "",
+                "discount": "27",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/kefir-1-zhiru-selianskii",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Кефір 1% жиру «Селянський», 950г",
+                "name": "Кефір 1% жиру «Селянський», 950г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930012-163598-kefir-1-zhiru-selyanskijj-950g-336.jpg?t=t1645655707",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930012-163598-kefir-1-zhiru-selyanskijj-950g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "4",
+                "countMinus": 3,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-kefir-1-zhiru-selyanskijj-950g/",
+                "liked": 0,
+                "desc": "Кефір 1% жиру «Селянський», 950г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5152",
+                                "nameru": "Селянське",
+                                "name_orig": "Селянське",
+                                "name": "Селянське",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5152"
+                        }
+                ]
+        },
+        {
+                "id": "2930011",
+                "pricebefore": "34.89",
+                "priceafter": "26.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/kefir-selianskii-2-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Кефір «Селянський» 2,5%, 950г",
+                "name": "Кефір «Селянський» 2,5%, 950г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930011-163598-kefir-selyanskijj-25-950g-336.jpg?t=t1645655707",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930011-163598-kefir-selyanskijj-25-950g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "5",
+                "countMinus": 3,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "8",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-kefir-selyanskijj-25-950g/",
+                "liked": 0,
+                "desc": "Кефір «Селянський» 2,5%, 950г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5152",
+                                "nameru": "Селянське",
+                                "name_orig": "Селянське",
+                                "name": "Селянське",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5152"
+                        }
+                ]
+        },
+        {
+                "id": "2930010",
+                "pricebefore": "31.49",
+                "priceafter": "23.99",
+                "discount_type": "",
+                "discount": "24",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/moloko-ultrapasterizovane-slovianochka-2-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Молоко ультрапастеризоване «Слов'яночка» 2,5%, 1000г",
+                "name": "Молоко ультрапастеризоване «Слов'яночка» 2,5%, 1000г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930010-163598-moloko-ultrapasterizovane-slovyanochka-25-1000g-336.jpg?t=t1645655707",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930010-163598-moloko-ultrapasterizovane-slovyanochka-25-1000g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "7",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-moloko-ultrapasterizovane-slovyanochka-25-1000g/",
+                "liked": 0,
+                "desc": "Молоко ультрапастеризоване «Слов'яночка» 2,5%, 1000г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7412",
+                                "nameru": "Словяночка",
+                                "name_orig": "Слов'яночка",
+                                "name": "Слов'яночка",
+                                "image": "https://gotoshop.ua/img/brands/1607508810-10.png?t=t1607508810",
+                                "url": "https://gotoshop.ua/?brand_id=7412"
+                        }
+                ]
+        },
+        {
+                "id": "2930007",
+                "pricebefore": "28.99",
+                "priceafter": "23.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/moloko-galichina-z-chistikh-karpat-2-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Молоко «Галичина» «З чистих Карпат» 2,5%, 900г",
+                "name": "Молоко «Галичина» «З чистих Карпат» 2,5%, 900г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930007-163598-moloko-galichina-z-chistikh-karpat-25-900g-336.jpg?t=t1645655706",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930007-163598-moloko-galichina-z-chistikh-karpat-25-900g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 5,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "2",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-moloko-galichina-z-chistikh-karpat-25-900g/",
+                "liked": 0,
+                "desc": "Молоко «Галичина» «З чистих Карпат» 2,5%, 900г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7179",
+                                "nameru": "Галичина",
+                                "name_orig": "Галичина",
+                                "name": "Галичина",
+                                "image": "https://gotoshop.ua/img/brands/1607508329-10.png?t=t1607508329",
+                                "url": "https://gotoshop.ua/?brand_id=7179"
+                        }
+                ]
+        },
+        {
+                "id": "2930006",
+                "pricebefore": "31.49",
+                "priceafter": "25.49",
+                "discount_type": "",
+                "discount": "19",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/moloko-galichina-ultrapasterizovane-3-2-t-f",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Молоко «Галичина» ультрапастеризоване 3,2%, т/ф, 900г",
+                "name": "Молоко «Галичина» ультрапастеризоване 3,2%, т/ф, 900г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930006-163598-moloko-galichina-ultrapasterizovane-32-t-f-900g-336.jpg?t=t1645655706",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930006-163598-moloko-galichina-ultrapasterizovane-32-t-f-900g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 4,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-moloko-galichina-ultrapasterizovane-32-t-f-900g/",
+                "liked": 0,
+                "desc": "Молоко «Галичина» ультрапастеризоване 3,2%, т/ф, 900г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7179",
+                                "nameru": "Галичина",
+                                "name_orig": "Галичина",
+                                "name": "Галичина",
+                                "image": "https://gotoshop.ua/img/brands/1607508329-10.png?t=t1607508329",
+                                "url": "https://gotoshop.ua/?brand_id=7179"
+                        }
+                ]
+        },
+        {
+                "id": "2929991",
+                "pricebefore": "39.69",
+                "priceafter": "28.99",
+                "discount_type": "",
+                "discount": "27",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/riazhanka-iagotinska-4",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Ряжанка «Яготинська» 4%, 850г",
+                "name": "Ряжанка «Яготинська» 4%, 850г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929991-163598-ryazhanka-yagotinska-4-850g-336.jpg?t=t1645655703",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929991-163598-ryazhanka-yagotinska-4-850g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 3,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "2",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-ryazhanka-yagotinska-4-850g/",
+                "liked": 0,
+                "desc": "Ряжанка «Яготинська» 4%, 850г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5430",
+                                "nameru": "Яготинское",
+                                "name_orig": "Яготинське",
+                                "name": "Яготинське",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5430"
+                        }
+                ]
+        },
+        {
+                "id": "2925584",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Сметана",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925584-163503-794916455368182380-336.jpg?t=t1645536728",
+                        "w": 336,
+                        "h": 495
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925584-163503-794916455368182380.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 1509
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-794916455368182380/",
+                "liked": 0,
+                "desc": "Сметана. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "15228",
+                                "nameru": "Авидаль",
+                                "name_orig": "Авідаль",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=15228"
+                        }
+                ]
+        },
+        {
+                "id": "2924452",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163433",
+                "image_contains_price": "1",
+                "startdate": "2022-02-21 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Сметана",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163433/2924452-163433-425216454585475265-336.jpg?t=t1645458496",
+                        "w": 336,
+                        "h": 267
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163433/2924452-163433-425216454585475265.jpg?t=t1645458496",
+                        "w": 1024,
+                        "h": 814
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "1137"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "21 Лютого - 6 Березня 2022",
+                "discount_name": "Акційні пропозиції",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163433-425216454585475265/",
+                "liked": 0,
+                "desc": "Сметана. \"Акційні пропозиції (21 Лютого - 31 Березня 2022)\" від супермаркетів Дастор в місті ",
+                "discount_url": "/uzhgorod/discounts/akcijjni-propozicii-21-02-2022-06-03-2022-dastor/",
+                "brands": [
+                        {
+                                "id": "14822",
+                                "nameru": "",
+                                "name_orig": "Дари Карпат",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=14822"
+                        }
+                ]
+        },
+        {
+                "id": "2891932",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Молоко",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891932-162332-115716444071537033-336.jpg?t=t1644407061",
+                        "w": 336,
+                        "h": 581
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891932-162332-115716444071537033.jpg?t=t1644407174",
+                        "w": 1024,
+                        "h": 1772
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-115716444071537033/",
+                "liked": 0,
+                "desc": "Молоко. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "5430",
+                                "nameru": "Яготинское",
+                                "name_orig": "Яготинське",
+                                "name": "Яготинське",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5430"
+                        }
+                ]
+        },
+        {
+                "id": "2891922",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Кефір, ряжанка, суфле",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891922-162332-379216444071539708-336.jpg?t=t1644407052",
+                        "w": 336,
+                        "h": 461
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891922-162332-379216444071539708.jpg?t=t1644407173",
+                        "w": 1024,
+                        "h": 1405
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-379216444071539708/",
+                "liked": 0,
+                "desc": "Кефір, ряжанка, суфле. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "7177",
+                                "nameru": "Простоквашино",
+                                "name_orig": "Простоквашино",
+                                "name": "Простоквашино",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7177"
+                        }
+                ]
+        }
+]

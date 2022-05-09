@@ -1,0 +1,166 @@
+[
+        {
+                "id": "2927442",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Авокадо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927442-163568-813016456198695481-336.jpg?t=t1645619830",
+                        "w": 336,
+                        "h": 477
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927442-163568-813016456198695481.jpg?t=t1645619890",
+                        "w": 1024,
+                        "h": 1453
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-813016456198695481/",
+                "liked": 0,
+                "desc": "Авокадо. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2930061",
+                "pricebefore": "21.29",
+                "priceafter": "14.99",
+                "discount_type": "",
+                "discount": "30",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iabluko-chempion-vidbirne",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Яблуко Чемпіон відбірне, кг",
+                "name": "Яблуко Чемпіон відбірне, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930061-163598-yabluko-chempion-vidbirne-kg-336.jpg?t=t1645655717",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930061-163598-yabluko-chempion-vidbirne-kg.jpg?t=t1645655785",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 14,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "6",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-yabluko-chempion-vidbirne-kg/",
+                "liked": 0,
+                "desc": "Яблуко Чемпіон відбірне, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": []
+        },
+        {
+                "id": "2930057",
+                "pricebefore": "40.49",
+                "priceafter": "29.99",
+                "discount_type": "",
+                "discount": "26",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/kivi-gold-koshik",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Ківі Голд кошик, шт",
+                "name": "Ківі Голд кошик, шт",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930057-163598-kivi-gold-koshik-sht-336.jpg?t=t1645655716",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930057-163598-kivi-gold-koshik-sht.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "6",
+                "countMinus": 3,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "2",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-kivi-gold-koshik-sht/",
+                "liked": 0,
+                "desc": "Ківі Голд кошик, шт. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": []
+        },
+        {
+                "id": "2925557",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Картопля",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925557-163503-717616455368184148-336.jpg?t=t1645536712",
+                        "w": 336,
+                        "h": 372
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925557-163503-717616455368184148.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 1134
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-717616455368184148/",
+                "liked": 0,
+                "desc": "Картопля. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": []
+        }
+]

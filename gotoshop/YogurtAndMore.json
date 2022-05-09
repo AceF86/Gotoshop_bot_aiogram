@@ -1,0 +1,952 @@
+[
+        {
+                "id": "2930009",
+                "pricebefore": "8.39",
+                "priceafter": "6.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-rastishka-z-fruktovim-napovniuvachem-polunitsia-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Растішка» з фруктовим наповнювачем полуниця 2%, 115г",
+                "name": "Йогурт «Растішка» з фруктовим наповнювачем полуниця 2%, 115г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930009-163598-jjogurt-rastishka-z-fruktovim-napovnyuvachem-polunicya-2-115g-336.jpg?t=t1645655707",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930009-163598-jjogurt-rastishka-z-fruktovim-napovnyuvachem-polunicya-2-115g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-rastishka-z-fruktovim-napovnyuvachem-polunicya-2-115g/",
+                "liked": 0,
+                "desc": "Йогурт «Растішка» з фруктовим наповнювачем полуниця 2%, 115г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "13973",
+                                "nameru": "",
+                                "name_orig": "Растишка",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=13973"
+                        }
+                ]
+        },
+        {
+                "id": "2930008",
+                "pricebefore": "8.39",
+                "priceafter": "6.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-rastishka-z-fruktovim-napovniuvachem-persik-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Растішка» з фруктовим наповнювачем персик 2%, 115г",
+                "name": "Йогурт «Растішка» з фруктовим наповнювачем персик 2%, 115г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930008-163598-jjogurt-rastishka-z-fruktovim-napovnyuvachem-persik-2-115g-336.jpg?t=t1645655706",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930008-163598-jjogurt-rastishka-z-fruktovim-napovnyuvachem-persik-2-115g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-rastishka-z-fruktovim-napovnyuvachem-persik-2-115g/",
+                "liked": 0,
+                "desc": "Йогурт «Растішка» з фруктовим наповнювачем персик 2%, 115г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "13973",
+                                "nameru": "",
+                                "name_orig": "Растишка",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=13973"
+                        }
+                ]
+        },
+        {
+                "id": "2930005",
+                "pricebefore": "24.69",
+                "priceafter": "18.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-molokiia-smuzi-polunitsia-banan-bazilik-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Молокія» смузі полуниця-банан-базилік 2%, 290г",
+                "name": "Йогурт «Молокія» смузі полуниця-банан-базилік 2%, 290г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930005-163598-jjogurt-molokiya-smuzi-polunicya-banan-bazilik-2-290g-336.jpg?t=t1645655706",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930005-163598-jjogurt-molokiya-smuzi-polunicya-banan-bazilik-2-290g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-molokiya-smuzi-polunicya-banan-bazilik-2-290g/",
+                "liked": 0,
+                "desc": "Йогурт «Молокія» смузі полуниця-банан-базилік 2%, 290г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7329",
+                                "nameru": "Молокия",
+                                "name_orig": "Молокія",
+                                "name": "Молокія",
+                                "image": "https://gotoshop.ua/img/brands/1607508666-3.png?t=t1607508666",
+                                "url": "https://gotoshop.ua/?brand_id=7329"
+                        }
+                ]
+        },
+        {
+                "id": "2930004",
+                "pricebefore": "24.69",
+                "priceafter": "18.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-molokiia-smuzi-persik-marakuia-melisa-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Молокія» смузі персик-маракуя-меліса 2%, 290г",
+                "name": "Йогурт «Молокія» смузі персик-маракуя-меліса 2%, 290г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930004-163598-jjogurt-molokiya-smuzi-persik-marakuya-melisa-2-290g-336.jpg?t=t1645655706",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930004-163598-jjogurt-molokiya-smuzi-persik-marakuya-melisa-2-290g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-molokiya-smuzi-persik-marakuya-melisa-2-290g/",
+                "liked": 0,
+                "desc": "Йогурт «Молокія» смузі персик-маракуя-меліса 2%, 290г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7329",
+                                "nameru": "Молокия",
+                                "name_orig": "Молокія",
+                                "name": "Молокія",
+                                "image": "https://gotoshop.ua/img/brands/1607508666-3.png?t=t1607508666",
+                                "url": "https://gotoshop.ua/?brand_id=7329"
+                        }
+                ]
+        },
+        {
+                "id": "2930003",
+                "pricebefore": "24.69",
+                "priceafter": "18.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-molokiia-smuzi-grusha-iabluko-lipa-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Молокія» смузі груша-яблуко-липа 2%, 290г",
+                "name": "Йогурт «Молокія» смузі груша-яблуко-липа 2%, 290г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930003-163598-jjogurt-molokiya-smuzi-grusha-yabluko-lipa-2-290g-336.jpg?t=t1645655706",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930003-163598-jjogurt-molokiya-smuzi-grusha-yabluko-lipa-2-290g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 3,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "2",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-molokiya-smuzi-grusha-yabluko-lipa-2-290g/",
+                "liked": 0,
+                "desc": "Йогурт «Молокія» смузі груша-яблуко-липа 2%, 290г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7329",
+                                "nameru": "Молокия",
+                                "name_orig": "Молокія",
+                                "name": "Молокія",
+                                "image": "https://gotoshop.ua/img/brands/1607508666-3.png?t=t1607508666",
+                                "url": "https://gotoshop.ua/?brand_id=7329"
+                        }
+                ]
+        },
+        {
+                "id": "2929999",
+                "pricebefore": "24.69",
+                "priceafter": "18.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-molokiia-smuzi-mango-laim-zhasmin-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Молокія» смузі манго-лайм-жасмин 2%, 290г",
+                "name": "Йогурт «Молокія» смузі манго-лайм-жасмин 2%, 290г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929999-163598-jjogurt-molokiya-smuzi-mango-lajjm-zhasmin-2-290g-336.jpg?t=t1645655705",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929999-163598-jjogurt-molokiya-smuzi-mango-lajjm-zhasmin-2-290g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 3,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-molokiya-smuzi-mango-lajjm-zhasmin-2-290g/",
+                "liked": 0,
+                "desc": "Йогурт «Молокія» смузі манго-лайм-жасмин 2%, 290г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7329",
+                                "nameru": "Молокия",
+                                "name_orig": "Молокія",
+                                "name": "Молокія",
+                                "image": "https://gotoshop.ua/img/brands/1607508666-3.png?t=t1607508666",
+                                "url": "https://gotoshop.ua/?brand_id=7329"
+                        }
+                ]
+        },
+        {
+                "id": "2929998",
+                "pricebefore": "24.69",
+                "priceafter": "18.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-molokiia-smuzi-dinia-ozhina-lavanda-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Молокія» смузі диня-ожина-лаванда 2%, 290г",
+                "name": "Йогурт «Молокія» смузі диня-ожина-лаванда 2%, 290г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929998-163598-jjogurt-molokiya-smuzi-dinya-ozhina-lavanda-2-290g-336.jpg?t=t1645655705",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929998-163598-jjogurt-molokiya-smuzi-dinya-ozhina-lavanda-2-290g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-molokiya-smuzi-dinya-ozhina-lavanda-2-290g/",
+                "liked": 0,
+                "desc": "Йогурт «Молокія» смузі диня-ожина-лаванда 2%, 290г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7329",
+                                "nameru": "Молокия",
+                                "name_orig": "Молокія",
+                                "name": "Молокія",
+                                "image": "https://gotoshop.ua/img/brands/1607508666-3.png?t=t1607508666",
+                                "url": "https://gotoshop.ua/?brand_id=7329"
+                        }
+                ]
+        },
+        {
+                "id": "2929995",
+                "pricebefore": "46.99",
+                "priceafter": "34.99",
+                "discount_type": "",
+                "discount": "26",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-iagotinskii-z-napovniuvachem-persik-1-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Яготинський» з наповнювачем персик 1,5%, 850г",
+                "name": "Йогурт «Яготинський» з наповнювачем персик 1,5%, 850г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929995-163598-jjogurt-yagotinskijj-z-napovnyuvachem-persik-15-850g-336.jpg?t=t1645655704",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929995-163598-jjogurt-yagotinskijj-z-napovnyuvachem-persik-15-850g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-yagotinskijj-z-napovnyuvachem-persik-15-850g/",
+                "liked": 0,
+                "desc": "Йогурт «Яготинський» з наповнювачем персик 1,5%, 850г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5430",
+                                "nameru": "Яготинское",
+                                "name_orig": "Яготинське",
+                                "name": "Яготинське",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5430"
+                        }
+                ]
+        },
+        {
+                "id": "2929994",
+                "pricebefore": "46.99",
+                "priceafter": "34.99",
+                "discount_type": "",
+                "discount": "26",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-iagotinskii-z-napovniuvachem-polunitsia-1-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Яготинський» з наповнювачем полуниця 1,5%, 850г",
+                "name": "Йогурт «Яготинський» з наповнювачем полуниця 1,5%, 850г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929994-163598-jjogurt-yagotinskijj-z-napovnyuvachem-polunicya-15-850g-336.jpg?t=t1645655704",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929994-163598-jjogurt-yagotinskijj-z-napovnyuvachem-polunicya-15-850g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "2",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-yagotinskijj-z-napovnyuvachem-polunicya-15-850g/",
+                "liked": 0,
+                "desc": "Йогурт «Яготинський» з наповнювачем полуниця 1,5%, 850г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5430",
+                                "nameru": "Яготинское",
+                                "name_orig": "Яготинське",
+                                "name": "Яготинське",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5430"
+                        }
+                ]
+        },
+        {
+                "id": "2929993",
+                "pricebefore": "46.99",
+                "priceafter": "34.99",
+                "discount_type": "",
+                "discount": "26",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-iagotinskii-z-napovniuvachem-chornitsia-1-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Яготинський» з наповнювачем чорниця 1,5%, 850г",
+                "name": "Йогурт «Яготинський» з наповнювачем чорниця 1,5%, 850г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929993-163598-jjogurt-yagotinskijj-z-napovnyuvachem-chornicya-15-850g-336.jpg?t=t1645655704",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929993-163598-jjogurt-yagotinskijj-z-napovnyuvachem-chornicya-15-850g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-yagotinskijj-z-napovnyuvachem-chornicya-15-850g/",
+                "liked": 0,
+                "desc": "Йогурт «Яготинський» з наповнювачем чорниця 1,5%, 850г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5430",
+                                "nameru": "Яготинское",
+                                "name_orig": "Яготинське",
+                                "name": "Яготинське",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5430"
+                        }
+                ]
+        },
+        {
+                "id": "2929992",
+                "pricebefore": "9.49",
+                "priceafter": "6.99",
+                "discount_type": "",
+                "discount": "26",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-rastishka-polunitsia-banan-bezlaktoznii-2-stakan",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Растишка» полуниця-банан безлактозний 2%, стакан, 105г",
+                "name": "Йогурт «Растишка» полуниця-банан безлактозний 2%, стакан, 105г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929992-163598-jjogurt-rastishka-polunicya-banan-bezlaktoznijj-2-stakan-105g-336.jpg?t=t1645655704",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929992-163598-jjogurt-rastishka-polunicya-banan-bezlaktoznijj-2-stakan-105g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-rastishka-polunicya-banan-bezlaktoznijj-2-stakan-105g/",
+                "liked": 0,
+                "desc": "Йогурт «Растишка» полуниця-банан безлактозний 2%, стакан, 105г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "13973",
+                                "nameru": "",
+                                "name_orig": "Растишка",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=13973"
+                        }
+                ]
+        },
+        {
+                "id": "2929990",
+                "pricebefore": "17.99",
+                "priceafter": "14.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-movenpick-gretskii-bez-napovniuvacha-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт Movenpick грецький без наповнювача 5%, 100г",
+                "name": "Йогурт Movenpick грецький без наповнювача 5%, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929990-163598-jjogurt-movenpick-greckijj-bez-napovnyuvacha-5-100g-336.jpg?t=t1645655703",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929990-163598-jjogurt-movenpick-greckijj-bez-napovnyuvacha-5-100g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-movenpick-greckijj-bez-napovnyuvacha-5-100g/",
+                "liked": 0,
+                "desc": "Йогурт Movenpick грецький без наповнювача 5%, 100г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "2989",
+                                "nameru": "Мовенпик",
+                                "name_orig": "Movenpick",
+                                "name": "Мовенпік",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=2989"
+                        }
+                ]
+        },
+        {
+                "id": "2929989",
+                "pricebefore": "17.99",
+                "priceafter": "14.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-movenpick-gretskii-lisovi-iagodi-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт Movenpick грецький лісові ягоди 5%, 100г",
+                "name": "Йогурт Movenpick грецький лісові ягоди 5%, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929989-163598-jjogurt-movenpick-greckijj-lisovi-yagodi-5-100g-336.jpg?t=t1645655703",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929989-163598-jjogurt-movenpick-greckijj-lisovi-yagodi-5-100g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-movenpick-greckijj-lisovi-yagodi-5-100g/",
+                "liked": 0,
+                "desc": "Йогурт Movenpick грецький лісові ягоди 5%, 100г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "2989",
+                                "nameru": "Мовенпик",
+                                "name_orig": "Movenpick",
+                                "name": "Мовенпік",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=2989"
+                        }
+                ]
+        },
+        {
+                "id": "2929988",
+                "pricebefore": "17.99",
+                "priceafter": "14.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-movenpick-gretskii-mango-vanil-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт Movenpick «Грецький» манго-ваніль 5%, 100г",
+                "name": "Йогурт Movenpick «Грецький» манго-ваніль 5%, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929988-163598-jjogurt-movenpick-greckijj-mango-vanil-5-100g-336.jpg?t=t1645655703",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929988-163598-jjogurt-movenpick-greckijj-mango-vanil-5-100g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-movenpick-greckijj-mango-vanil-5-100g/",
+                "liked": 0,
+                "desc": "Йогурт Movenpick «Грецький» манго-ваніль 5%, 100г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "2989",
+                                "nameru": "Мовенпик",
+                                "name_orig": "Movenpick",
+                                "name": "Мовенпік",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=2989"
+                        }
+                ]
+        },
+        {
+                "id": "2929987",
+                "pricebefore": "10.19",
+                "priceafter": "6.99",
+                "discount_type": "",
+                "discount": "31",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/iogurt-rastishka-malina-chornitsia-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Йогурт «Растишка» малина-чорниця 2%, 110г",
+                "name": "Йогурт «Растишка» малина-чорниця 2%, 110г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929987-163598-jjogurt-rastishka-malina-chornicya-2-110g-336.jpg?t=t1645655703",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929987-163598-jjogurt-rastishka-malina-chornicya-2-110g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-jjogurt-rastishka-malina-chornicya-2-110g/",
+                "liked": 0,
+                "desc": "Йогурт «Растишка» малина-чорниця 2%, 110г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7230",
+                                "nameru": "Данон",
+                                "name_orig": "DANONE",
+                                "name": "Данон",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7230"
+                        }
+                ]
+        },
+        {
+                "id": "2925583",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Йогурт, закваски, безмолочні десерти",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925583-163503-593916455368186799-336.jpg?t=t1645536727",
+                        "w": 336,
+                        "h": 414
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925583-163503-593916455368186799.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 1262
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-593916455368186799/",
+                "liked": 0,
+                "desc": "Йогурт, закваски, безмолочні десерти. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "7175",
+                                "nameru": "Чудо",
+                                "name_orig": "Чудо",
+                                "name": "Чудо",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7175"
+                        }
+                ]
+        },
+        {
+                "id": "2925820",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163433",
+                "image_contains_price": "1",
+                "startdate": "2022-02-21 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Йогурт, закваски, безмолочні десерти",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163433/2925820-163433-692516455435884937-336.jpg?t=t1645543581",
+                        "w": 336,
+                        "h": 267
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163433/2925820-163433-692516455435884937.jpg?t=t1645543581",
+                        "w": 1024,
+                        "h": 814
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "1137"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "21 Лютого - 6 Березня 2022",
+                "discount_name": "Акційні пропозиції",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163433-692516455435884937/",
+                "liked": 0,
+                "desc": "Йогурт, закваски, безмолочні десерти. \"Акційні пропозиції (21 Лютого - 31 Березня 2022)\" від супермаркетів Дастор в місті ",
+                "discount_url": "/uzhgorod/discounts/akcijjni-propozicii-21-02-2022-06-03-2022-dastor/",
+                "brands": [
+                        {
+                                "id": "4610",
+                                "nameru": "Агуша",
+                                "name_orig": "Агуша",
+                                "name": "Агуша",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4610"
+                        }
+                ]
+        },
+        {
+                "id": "2891918",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Йогурт, закваски, безмолочні десерти",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891918-162332-34921644407152748-336.jpg?t=t1644407045",
+                        "w": 336,
+                        "h": 562
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891918-162332-34921644407152748.jpg?t=t1644407173",
+                        "w": 1024,
+                        "h": 1713
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-34921644407152748/",
+                "liked": 0,
+                "desc": "Йогурт, закваски, безмолочні десерти. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "8689",
+                                "nameru": "Локо моко",
+                                "name_orig": "Локо-моко",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=8689"
+                        }
+                ]
+        },
+        {
+                "id": "2891916",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Йогурт, закваски, безмолочні десерти",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891916-162332-333516444071522837-336.jpg?t=t1644407044",
+                        "w": 336,
+                        "h": 387
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891916-162332-333516444071522837.jpg?t=t1644407173",
+                        "w": 1024,
+                        "h": 1178
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-333516444071522837/",
+                "liked": 0,
+                "desc": "Йогурт, закваски, безмолочні десерти. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "7230",
+                                "nameru": "Данон",
+                                "name_orig": "DANONE",
+                                "name": "Данон",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7230"
+                        }
+                ]
+        }
+]

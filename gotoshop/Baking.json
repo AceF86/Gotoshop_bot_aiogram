@@ -1,0 +1,680 @@
+[
+        {
+                "id": "2927435",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Хлібобулочні вироби, булочки",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927435-163568-488016456198691665-336.jpg?t=t1645619826",
+                        "w": 336,
+                        "h": 604
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927435-163568-488016456198691665.jpg?t=t1645619890",
+                        "w": 1024,
+                        "h": 1840
+                },
+                "countPlus": "0",
+                "countMinus": 2,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-488016456198691665/",
+                "liked": 0,
+                "desc": "Хлібобулочні вироби, булочки. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2930391",
+                "pricebefore": "43.79",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "21",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/tortilia-zanuy-z-nasinniam-lonu-i-maku",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Тортилья Zanuy з насінням льону і маку, 240г",
+                "name": "Тортилья Zanuy з насінням льону і маку, 240г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930391-163599-tortilya-zanuy-z-nasinnyam-lonu-i-maku-240g-336.jpg?t=t1645655901",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930391-163599-tortilya-zanuy-z-nasinnyam-lonu-i-maku-240g.jpg?t=t1645655967",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-tortilya-zanuy-z-nasinnyam-lonu-i-maku-240g/",
+                "liked": 0,
+                "desc": "Тортилья Zanuy з насінням льону і маку, 240г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9225",
+                                "nameru": "Зануй",
+                                "name_orig": "Zanuy",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9225"
+                        }
+                ]
+        },
+        {
+                "id": "2930390",
+                "pricebefore": "45.59",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "24",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/tortilia-zanuy-z-pshenichnogo-boroshna",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Тортилья Zanuy з пшеничного борошна, 320г",
+                "name": "Тортилья Zanuy з пшеничного борошна, 320г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930390-163599-tortilya-zanuy-z-pshenichnogo-boroshna-320g-336.jpg?t=t1645655901",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930390-163599-tortilya-zanuy-z-pshenichnogo-boroshna-320g.jpg?t=t1645655967",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-tortilya-zanuy-z-pshenichnogo-boroshna-320g/",
+                "liked": 0,
+                "desc": "Тортилья Zanuy з пшеничного борошна, 320г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9225",
+                                "nameru": "Зануй",
+                                "name_orig": "Zanuy",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9225"
+                        }
+                ]
+        },
+        {
+                "id": "2930389",
+                "pricebefore": "51.99",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "34",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/tarali-ester-klasichni",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Таралі Ester класичні, 250г",
+                "name": "Таралі Ester класичні, 250г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930389-163599-tarali-ester-klasichni-250g-336.jpg?t=t1645655901",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930389-163599-tarali-ester-klasichni-250g.jpg?t=t1645655967",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-tarali-ester-klasichni-250g/",
+                "liked": 0,
+                "desc": "Таралі Ester класичні, 250г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9998",
+                                "nameru": "Естер",
+                                "name_orig": "Ester ",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9998"
+                        }
+                ]
+        },
+        {
+                "id": "2930388",
+                "pricebefore": "51.99",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "34",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/tarali-ester-z-nasinniam-fenkhelia",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Таралі Ester з насінням фенхеля, 250г",
+                "name": "Таралі Ester з насінням фенхеля, 250г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930388-163599-tarali-ester-z-nasinnyam-fenkhelya-250g-336.jpg?t=t1645655901",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930388-163599-tarali-ester-z-nasinnyam-fenkhelya-250g.jpg?t=t1645655967",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-tarali-ester-z-nasinnyam-fenkhelya-250g/",
+                "liked": 0,
+                "desc": "Таралі Ester з насінням фенхеля, 250г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9998",
+                                "nameru": "Естер",
+                                "name_orig": "Ester ",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9998"
+                        }
+                ]
+        },
+        {
+                "id": "2930387",
+                "pricebefore": "59.49",
+                "priceafter": "44.49",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/piadina-zanuy-z-silliu-z-posidoniyi-4-sht",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "П'ядіна Zanuy з сіллю з посідонії 4 шт., 320г",
+                "name": "П'ядіна Zanuy з сіллю з посідонії 4 шт., 320г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930387-163599-pyadina-zanuy-z-sillyu-z-posidonii-4-sht-320g-336.jpg?t=t1645655901",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930387-163599-pyadina-zanuy-z-sillyu-z-posidonii-4-sht-320g.jpg?t=t1645655967",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-pyadina-zanuy-z-sillyu-z-posidonii-4-sht-320g/",
+                "liked": 0,
+                "desc": "П'ядіна Zanuy з сіллю з посідонії 4 шт., 320г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9225",
+                                "nameru": "Зануй",
+                                "name_orig": "Zanuy",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9225"
+                        }
+                ]
+        },
+        {
+                "id": "2930386",
+                "pricebefore": "104",
+                "priceafter": "79.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/khlib-balviten-low-carb-nizkovuglevodnii-bez-gliutena",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Хліб Balviten Low carb низьковуглеводний без глютена, 190г",
+                "name": "Хліб Balviten Low carb низьковуглеводний без глютена, 190г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930386-163599-khlib-balviten-low-carb-nizkovuglevodnijj-bez-glyutena-190g-336.jpg?t=t1645655900",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930386-163599-khlib-balviten-low-carb-nizkovuglevodnijj-bez-glyutena-190g.jpg?t=t1645655967",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-khlib-balviten-low-carb-nizkovuglevodnijj-bez-glyutena-190g/",
+                "liked": 0,
+                "desc": "Хліб Balviten Low carb низьковуглеводний без глютена, 190г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9390",
+                                "nameru": "Балвитен",
+                                "name_orig": "Balviten",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9390"
+                        }
+                ]
+        },
+        {
+                "id": "2930017",
+                "pricebefore": "8.49",
+                "priceafter": "6.39",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pirizhok-z-iablukami",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пиріжок з яблуками, 70г",
+                "name": "Пиріжок з яблуками, 70г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930017-163598-pirizhok-z-yablukami-70g-336.jpg?t=t1645655708",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930017-163598-pirizhok-z-yablukami-70g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pirizhok-z-yablukami-70g/",
+                "liked": 0,
+                "desc": "Пиріжок з яблуками, 70г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": []
+        },
+        {
+                "id": "2930016",
+                "pricebefore": "10.99",
+                "priceafter": "8.29",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/bulochka-ravlik-zi-smorodinoiu",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Булочка «Равлик» зі смородиною, 80г",
+                "name": "Булочка «Равлик» зі смородиною, 80г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930016-163598-bulochka-ravlik-zi-smorodinoyu-80g-336.jpg?t=t1645655708",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930016-163598-bulochka-ravlik-zi-smorodinoyu-80g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-bulochka-ravlik-zi-smorodinoyu-80g/",
+                "liked": 0,
+                "desc": "Булочка «Равлик» зі смородиною, 80г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": []
+        },
+        {
+                "id": "2930015",
+                "pricebefore": "28.29",
+                "priceafter": "21.99",
+                "discount_type": "",
+                "discount": "22",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/lavash-bkk-latinoamerikanskii-vid-shefa",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Лаваш БКК «Латиноамериканський від Шефа», 200г",
+                "name": "Лаваш БКК «Латиноамериканський від Шефа», 200г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930015-163598-lavash-bkk-latinoamerikanskijj-vid-shefa-200g-336.jpg?t=t1645655708",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930015-163598-lavash-bkk-latinoamerikanskijj-vid-shefa-200g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 5,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-lavash-bkk-latinoamerikanskijj-vid-shefa-200g/",
+                "liked": 0,
+                "desc": "Лаваш БКК «Латиноамериканський від Шефа», 200г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7594",
+                                "nameru": "Киевский Булочно-кондитерский комбинат (БКК)",
+                                "name_orig": "Київський Булочно-кондитерський комбінат (БКК)",
+                                "name": "Київський Булочно-кондитерський комбінат (БКК)",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7594"
+                        }
+                ]
+        },
+        {
+                "id": "2925575",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Хлібобулочні вироби, булочки",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925575-163503-680016455368188200-336.jpg?t=t1645536723",
+                        "w": 336,
+                        "h": 436
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925575-163503-680016455368188200.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 1330
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "28 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-680016455368188200/",
+                "liked": 0,
+                "desc": "Хлібобулочні вироби, булочки. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": []
+        },
+        {
+                "id": "2925565",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Випічка асорті",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925565-163503-161916455368183179-336.jpg?t=t1645536715",
+                        "w": 336,
+                        "h": 307
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925565-163503-161916455368183179.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 936
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-161916455368183179/",
+                "liked": 0,
+                "desc": "Випічка асорті. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": []
+        },
+        {
+                "id": "2891925",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Хлібобулочні вироби, булочки",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891925-162332-869416444071538342-336.jpg?t=t1644407055",
+                        "w": 336,
+                        "h": 483
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891925-162332-869416444071538342.jpg?t=t1644407174",
+                        "w": 1024,
+                        "h": 1472
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-869416444071538342/",
+                "liked": 0,
+                "desc": "Хлібобулочні вироби, булочки. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": []
+        },
+        {
+                "id": "2891924",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Хлібобулочні вироби, булочки",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891924-162332-197716444071538178-336.jpg?t=t1644407054",
+                        "w": 336,
+                        "h": 430
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891924-162332-197716444071538178.jpg?t=t1644407174",
+                        "w": 1024,
+                        "h": 1311
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-197716444071538178/",
+                "liked": 0,
+                "desc": "Хлібобулочні вироби, булочки. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": []
+        },
+        {
+                "id": "2891923",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Випічка асорті, Хлібобулочні вироби, булочки",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891923-162332-988316444071537062-336.jpg?t=t1644407053",
+                        "w": 336,
+                        "h": 470
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891923-162332-988316444071537062.jpg?t=t1644407173",
+                        "w": 1024,
+                        "h": 1432
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-988316444071537062/",
+                "liked": 0,
+                "desc": "Випічка асорті, Хлібобулочні вироби, булочки. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": []
+        }
+]

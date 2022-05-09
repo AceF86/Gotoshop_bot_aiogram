@@ -1,0 +1,1993 @@
+[
+        {
+                "id": "2927422",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Печиво, пряники, баранки, бублики, сушка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927422-163568-98991645619869624-336.jpg?t=t1645619808",
+                        "w": 336,
+                        "h": 470
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927422-163568-98991645619869624.jpg?t=t1645619890",
+                        "w": 1024,
+                        "h": 1431
+                },
+                "countPlus": "0",
+                "countMinus": 3,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-98991645619869624/",
+                "liked": 0,
+                "desc": "Печиво, пряники, баранки, бублики, сушка. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2930389",
+                "pricebefore": "51.99",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "34",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/tarali-ester-klasichni",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Таралі Ester класичні, 250г",
+                "name": "Таралі Ester класичні, 250г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930389-163599-tarali-ester-klasichni-250g-336.jpg?t=t1645655901",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930389-163599-tarali-ester-klasichni-250g.jpg?t=t1645655967",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-tarali-ester-klasichni-250g/",
+                "liked": 0,
+                "desc": "Таралі Ester класичні, 250г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9998",
+                                "nameru": "Естер",
+                                "name_orig": "Ester ",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9998"
+                        }
+                ]
+        },
+        {
+                "id": "2930388",
+                "pricebefore": "51.99",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "34",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/tarali-ester-z-nasinniam-fenkhelia",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Таралі Ester з насінням фенхеля, 250г",
+                "name": "Таралі Ester з насінням фенхеля, 250г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930388-163599-tarali-ester-z-nasinnyam-fenkhelya-250g-336.jpg?t=t1645655901",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930388-163599-tarali-ester-z-nasinnyam-fenkhelya-250g.jpg?t=t1645655967",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-tarali-ester-z-nasinnyam-fenkhelya-250g/",
+                "liked": 0,
+                "desc": "Таралі Ester з насінням фенхеля, 250г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9998",
+                                "nameru": "Естер",
+                                "name_orig": "Ester ",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9998"
+                        }
+                ]
+        },
+        {
+                "id": "2930324",
+                "pricebefore": "42.19",
+                "priceafter": "29.99",
+                "discount_type": "",
+                "discount": "29",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/kantuchini-biscottificiobelli-pratobelli-migdal-25",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Кантучіні BiscottificioBelli Pratobelli мигдаль 25%, 100г",
+                "name": "Кантучіні BiscottificioBelli Pratobelli мигдаль 25%, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930324-163599-kantuchini-biscottificiobelli-pratobelli-migdal-25-100g-336.jpg?t=t1645655890",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930324-163599-kantuchini-biscottificiobelli-pratobelli-migdal-25-100g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-kantuchini-biscottificiobelli-pratobelli-migdal-25-100g/",
+                "liked": 0,
+                "desc": "Кантучіні BiscottificioBelli Pratobelli мигдаль 25%, 100г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "11819",
+                                "nameru": "",
+                                "name_orig": "Biscottificio Belli",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=11819"
+                        }
+                ]
+        },
+        {
+                "id": "2930323",
+                "pricebefore": "78.99",
+                "priceafter": "59.99",
+                "discount_type": "",
+                "discount": "24",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/kantuchini-biscottificio-belli-cioccobelli-shokolad",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Кантучіні Biscottificio Belli Cioccobelli шоколад, 200г",
+                "name": "Кантучіні Biscottificio Belli Cioccobelli шоколад, 200г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930323-163599-kantuchini-biscottificio-belli-cioccobelli-shokolad-200g-336.jpg?t=t1645655890",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930323-163599-kantuchini-biscottificio-belli-cioccobelli-shokolad-200g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-kantuchini-biscottificio-belli-cioccobelli-shokolad-200g/",
+                "liked": 0,
+                "desc": "Кантучіні Biscottificio Belli Cioccobelli шоколад, 200г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "11819",
+                                "nameru": "",
+                                "name_orig": "Biscottificio Belli",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=11819"
+                        }
+                ]
+        },
+        {
+                "id": "2930321",
+                "pricebefore": "75.49",
+                "priceafter": "54.49",
+                "discount_type": "",
+                "discount": "28",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/pechivo-coppenrath-classic-gratski-kiltsia",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Печиво Coppenrath Classic грацькі кільця, 400г",
+                "name": "Печиво Coppenrath Classic грацькі кільця, 400г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930321-163599-pechivo-coppenrath-classic-gracki-kilcya-400g-336.jpg?t=t1645655889",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930321-163599-pechivo-coppenrath-classic-gracki-kilcya-400g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-pechivo-coppenrath-classic-gracki-kilcya-400g/",
+                "liked": 0,
+                "desc": "Печиво Coppenrath Classic грацькі кільця, 400г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "7796",
+                                "nameru": "Коппенрат",
+                                "name_orig": "Coppenrath",
+                                "name": "Коппенрат",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7796"
+                        }
+                ]
+        },
+        {
+                "id": "2930311",
+                "pricebefore": "34.99",
+                "priceafter": "24.99",
+                "discount_type": "",
+                "discount": "29",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/pechivo-j-destrooper-vershkove-khrustke",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Печиво J.Destrooper вершкове хрустке, 35г",
+                "name": "Печиво J.Destrooper вершкове хрустке, 35г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930311-163599-pechivo-jdestrooper-vershkove-khrustke-35g-336.jpg?t=t1645655887",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930311-163599-pechivo-jdestrooper-vershkove-khrustke-35g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-pechivo-jdestrooper-vershkove-khrustke-35g/",
+                "liked": 0,
+                "desc": "Печиво J.Destrooper вершкове хрустке, 35г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "2282",
+                                "nameru": "",
+                                "name_orig": "Jules Destrooper",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=2282"
+                        }
+                ]
+        },
+        {
+                "id": "2930305",
+                "pricebefore": "54.49",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "37",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/prianiki-lambertz-z-polunichnoiu-nachinkoiu-v-shokoladi",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Пряники Lambertz з полуничною начинкою в шоколаді, 200г",
+                "name": "Пряники Lambertz з полуничною начинкою в шоколаді, 200г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930305-163599-pryaniki-lambertz-z-polunichnoyu-nachinkoyu-v-shokoladi-200g-336.jpg?t=t1645655886",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930305-163599-pryaniki-lambertz-z-polunichnoyu-nachinkoyu-v-shokoladi-200g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-pryaniki-lambertz-z-polunichnoyu-nachinkoyu-v-shokoladi-200g/",
+                "liked": 0,
+                "desc": "Пряники Lambertz з полуничною начинкою в шоколаді, 200г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "2488",
+                                "nameru": "Ламбертс",
+                                "name_orig": "Lambertz",
+                                "name": "Ламбертз",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=2488"
+                        }
+                ]
+        },
+        {
+                "id": "2930299",
+                "pricebefore": "66.49",
+                "priceafter": "49.99",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/pechivo-buiteman-zi-smakom-siru-chedder",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Печиво Buiteman зі смаком сиру чеддер, 75г",
+                "name": "Печиво Buiteman зі смаком сиру чеддер, 75г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930299-163599-pechivo-buiteman-zi-smakom-siru-chedder-75g-336.jpg?t=t1645655885",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930299-163599-pechivo-buiteman-zi-smakom-siru-chedder-75g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-pechivo-buiteman-zi-smakom-siru-chedder-75g/",
+                "liked": 0,
+                "desc": "Печиво Buiteman зі смаком сиру чеддер, 75г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "10016",
+                                "nameru": "Буитемен",
+                                "name_orig": "Buiteman",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10016"
+                        }
+                ]
+        },
+        {
+                "id": "2930298",
+                "pricebefore": "66.49",
+                "priceafter": "49.99",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/pechivo-buiteman-zi-smakom-siru-gauda",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Печиво Buiteman зі смаком сиру гауда, 75г",
+                "name": "Печиво Buiteman зі смаком сиру гауда, 75г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930298-163599-pechivo-buiteman-zi-smakom-siru-gauda-75g-336.jpg?t=t1645655885",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930298-163599-pechivo-buiteman-zi-smakom-siru-gauda-75g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-pechivo-buiteman-zi-smakom-siru-gauda-75g/",
+                "liked": 0,
+                "desc": "Печиво Buiteman зі смаком сиру гауда, 75г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "10016",
+                                "nameru": "Буитемен",
+                                "name_orig": "Buiteman",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10016"
+                        }
+                ]
+        },
+        {
+                "id": "2930297",
+                "pricebefore": "66.49",
+                "priceafter": "49.99",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/pechivo-buiteman-zi-smakom-siru-gauda-i-chasniku",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Печиво Buiteman зі смаком сиру гауда і часнику, 75г",
+                "name": "Печиво Buiteman зі смаком сиру гауда і часнику, 75г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930297-163599-pechivo-buiteman-zi-smakom-siru-gauda-i-chasniku-75g-336.jpg?t=t1645655885",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930297-163599-pechivo-buiteman-zi-smakom-siru-gauda-i-chasniku-75g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-pechivo-buiteman-zi-smakom-siru-gauda-i-chasniku-75g/",
+                "liked": 0,
+                "desc": "Печиво Buiteman зі смаком сиру гауда і часнику, 75г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "10016",
+                                "nameru": "Буитемен",
+                                "name_orig": "Buiteman",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10016"
+                        }
+                ]
+        },
+        {
+                "id": "2930293",
+                "pricebefore": "45.99",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/trubochki-gastone-lago-vafelni-z-molochnim-kremom",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Трубочки Gastone Lago вафельні з молочним кремом, 80г",
+                "name": "Трубочки Gastone Lago вафельні з молочним кремом, 80г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930293-163599-trubochki-gastone-lago-vafelni-z-molochnim-kremom-80g-336.jpg?t=t1645655884",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930293-163599-trubochki-gastone-lago-vafelni-z-molochnim-kremom-80g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-trubochki-gastone-lago-vafelni-z-molochnim-kremom-80g/",
+                "liked": 0,
+                "desc": "Трубочки Gastone Lago вафельні з молочним кремом, 80г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "10568",
+                                "nameru": "",
+                                "name_orig": "Gastone Lago",
+                                "name": "Гастоне Лаго",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10568"
+                        }
+                ]
+        },
+        {
+                "id": "2930292",
+                "pricebefore": "45.99",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/trubochki-gastone-lago-vafelni-z-kakao",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Трубочки Gastone Lago вафельні з какао, 80г",
+                "name": "Трубочки Gastone Lago вафельні з какао, 80г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930292-163599-trubochki-gastone-lago-vafelni-z-kakao-80g-336.jpg?t=t1645655884",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930292-163599-trubochki-gastone-lago-vafelni-z-kakao-80g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-trubochki-gastone-lago-vafelni-z-kakao-80g/",
+                "liked": 0,
+                "desc": "Трубочки Gastone Lago вафельні з какао, 80г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "10568",
+                                "nameru": "",
+                                "name_orig": "Gastone Lago",
+                                "name": "Гастоне Лаго",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10568"
+                        }
+                ]
+        },
+        {
+                "id": "2930291",
+                "pricebefore": "45.99",
+                "priceafter": "34.49",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/trubochki-gastone-lago-vafelni-z-fundukovim-kremom",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Трубочки Gastone Lago вафельні з фундуковим кремом, 80г",
+                "name": "Трубочки Gastone Lago вафельні з фундуковим кремом, 80г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930291-163599-trubochki-gastone-lago-vafelni-z-fundukovim-kremom-80g-336.jpg?t=t1645655884",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930291-163599-trubochki-gastone-lago-vafelni-z-fundukovim-kremom-80g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-trubochki-gastone-lago-vafelni-z-fundukovim-kremom-80g/",
+                "liked": 0,
+                "desc": "Трубочки Gastone Lago вафельні з фундуковим кремом, 80г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "10568",
+                                "nameru": "",
+                                "name_orig": "Gastone Lago",
+                                "name": "Гастоне Лаго",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10568"
+                        }
+                ]
+        },
+        {
+                "id": "2930281",
+                "pricebefore": "184",
+                "priceafter": "139",
+                "discount_type": "",
+                "discount": "24",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/trubochki-aglina-grechani-malina",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Трубочки Aglina гречані малина, 125г",
+                "name": "Трубочки Aglina гречані малина, 125г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930281-163599-trubochki-aglina-grechani-malina-125g-336.jpg?t=t1645655882",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930281-163599-trubochki-aglina-grechani-malina-125g.jpg?t=t1645655965",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-trubochki-aglina-grechani-malina-125g/",
+                "liked": 0,
+                "desc": "Трубочки Aglina гречані малина, 125г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "10576",
+                                "nameru": "",
+                                "name_orig": "Aglina",
+                                "name": "Аглина",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10576"
+                        }
+                ]
+        },
+        {
+                "id": "2930280",
+                "pricebefore": "184",
+                "priceafter": "139",
+                "discount_type": "",
+                "discount": "24",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/trubochki-aglina-grechani-kokos",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Трубочки Aglina гречані кокос, 125г",
+                "name": "Трубочки Aglina гречані кокос, 125г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930280-163599-trubochki-aglina-grechani-kokos-125g-336.jpg?t=t1645655882",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930280-163599-trubochki-aglina-grechani-kokos-125g.jpg?t=t1645655965",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-trubochki-aglina-grechani-kokos-125g/",
+                "liked": 0,
+                "desc": "Трубочки Aglina гречані кокос, 125г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "10576",
+                                "nameru": "",
+                                "name_orig": "Aglina",
+                                "name": "Аглина",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10576"
+                        }
+                ]
+        },
+        {
+                "id": "2930269",
+                "pricebefore": "114",
+                "priceafter": "89.99",
+                "discount_type": "",
+                "discount": "21",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/pechivo-matilde-vicenzi-grisbi-z-shokoladnoiu-nachinkoiu",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Печиво Matilde Vicenzi «Грісбі» з шоколадною начинкою, 150г",
+                "name": "Печиво Matilde Vicenzi «Грісбі» з шоколадною начинкою, 150г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930269-163599-pechivo-matilde-vicenzi-grisbi-z-shokoladnoyu-nachinkoyu-150g-336.jpg?t=t1645655880",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930269-163599-pechivo-matilde-vicenzi-grisbi-z-shokoladnoyu-nachinkoyu-150g.jpg?t=t1645655885",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-pechivo-matilde-vicenzi-grisbi-z-shokoladnoyu-nachinkoyu-150g/",
+                "liked": 0,
+                "desc": "Печиво Matilde Vicenzi «Грісбі» з шоколадною начинкою, 150г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9408",
+                                "nameru": "Матилде Висензи",
+                                "name_orig": "Matilde Vicenzi",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9408"
+                        }
+                ]
+        },
+        {
+                "id": "2930268",
+                "pricebefore": "114",
+                "priceafter": "89.99",
+                "discount_type": "",
+                "discount": "21",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/pechivo-matilde-vicenzi-grisbi-z-limonnoiu-nachinkoiu",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Печиво Matilde Vicenzi «Грісбі» з лимонною начинкою, 150г",
+                "name": "Печиво Matilde Vicenzi «Грісбі» з лимонною начинкою, 150г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930268-163599-pechivo-matilde-vicenzi-grisbi-z-limonnoyu-nachinkoyu-150g-336.jpg?t=t1645655880",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930268-163599-pechivo-matilde-vicenzi-grisbi-z-limonnoyu-nachinkoyu-150g.jpg?t=t1645655885",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-pechivo-matilde-vicenzi-grisbi-z-limonnoyu-nachinkoyu-150g/",
+                "liked": 0,
+                "desc": "Печиво Matilde Vicenzi «Грісбі» з лимонною начинкою, 150г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9408",
+                                "nameru": "Матилде Висензи",
+                                "name_orig": "Matilde Vicenzi",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9408"
+                        }
+                ]
+        },
+        {
+                "id": "2930248",
+                "pricebefore": "67.99",
+                "priceafter": "54.49",
+                "discount_type": "",
+                "discount": "20",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/napii-the-gutsy-captain-kombucha-originalna",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Напій The Gutsy Captain «Комбуча» оригінальна, 0,4л",
+                "name": "Напій The Gutsy Captain «Комбуча» оригінальна, 0,4л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930248-163599-napijj-the-gutsy-captain-kombucha-originalna-04l-336.jpg?t=t1645655876",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930248-163599-napijj-the-gutsy-captain-kombucha-originalna-04l.jpg?t=t1645655884",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-napijj-the-gutsy-captain-kombucha-originalna-04l/",
+                "liked": 0,
+                "desc": "Напій The Gutsy Captain «Комбуча» оригінальна, 0,4л. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "8563",
+                                "nameru": "",
+                                "name_orig": "The Gutsy Captain",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=8563"
+                        }
+                ]
+        },
+        {
+                "id": "2929826",
+                "pricebefore": "11.29",
+                "priceafter": "8.99",
+                "discount_type": "",
+                "discount": "20",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechivo-sendvich-super-kontik-v-shokoladi",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печиво-сендвіч «Супер Контік» в шоколаді, 100г",
+                "name": "Печиво-сендвіч «Супер Контік» в шоколаді, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929826-163598-pechivo-sendvich-super-kontik-v-shokoladi-100g-336.jpg?t=t1645655673",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929826-163598-pechivo-sendvich-super-kontik-v-shokoladi-100g.jpg?t=t1645655705",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechivo-sendvich-super-kontik-v-shokoladi-100g/",
+                "liked": 0,
+                "desc": "Печиво-сендвіч «Супер Контік» в шоколаді, 100г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "2386",
+                                "nameru": "Конти",
+                                "name_orig": "Konti",
+                                "name": "Конті",
+                                "image": "https://gotoshop.ua/img/brands/1607508397-1.png?t=t1607508397",
+                                "url": "https://gotoshop.ua/?brand_id=2386"
+                        }
+                ]
+        },
+        {
+                "id": "2929825",
+                "pricebefore": "11.29",
+                "priceafter": "8.99",
+                "discount_type": "",
+                "discount": "20",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechivo-super-kontik-zi-zgushchenim-molokom",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печиво «Супер Контік» зі згущеним молоком, 100г",
+                "name": "Печиво «Супер Контік» зі згущеним молоком, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929825-163598-pechivo-super-kontik-zi-zgushhenim-molokom-100g-336.jpg?t=t1645655673",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929825-163598-pechivo-super-kontik-zi-zgushhenim-molokom-100g.jpg?t=t1645655705",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechivo-super-kontik-zi-zgushhenim-molokom-100g/",
+                "liked": 0,
+                "desc": "Печиво «Супер Контік» зі згущеним молоком, 100г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "2386",
+                                "nameru": "Конти",
+                                "name_orig": "Konti",
+                                "name": "Конті",
+                                "image": "https://gotoshop.ua/img/brands/1607508397-1.png?t=t1607508397",
+                                "url": "https://gotoshop.ua/?brand_id=2386"
+                        }
+                ]
+        },
+        {
+                "id": "2929823",
+                "pricebefore": "11.29",
+                "priceafter": "8.99",
+                "discount_type": "",
+                "discount": "20",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechivo-super-kontik-z-gorikhom-v-glazuri",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печиво «Супер Контік» з горіхом в глазурі, 100г",
+                "name": "Печиво «Супер Контік» з горіхом в глазурі, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929823-163598-pechivo-super-kontik-z-gorikhom-v-glazuri-100g-336.jpg?t=t1645655673",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929823-163598-pechivo-super-kontik-z-gorikhom-v-glazuri-100g.jpg?t=t1645655705",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechivo-super-kontik-z-gorikhom-v-glazuri-100g/",
+                "liked": 0,
+                "desc": "Печиво «Супер Контік» з горіхом в глазурі, 100г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "2386",
+                                "nameru": "Конти",
+                                "name_orig": "Konti",
+                                "name": "Конті",
+                                "image": "https://gotoshop.ua/img/brands/1607508397-1.png?t=t1607508397",
+                                "url": "https://gotoshop.ua/?brand_id=2386"
+                        }
+                ]
+        },
+        {
+                "id": "2929822",
+                "pricebefore": "11.29",
+                "priceafter": "8.99",
+                "discount_type": "",
+                "discount": "20",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechivo-super-kontik-z-vanilinom",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печиво «Супер Контік» з ваніліном, 100г",
+                "name": "Печиво «Супер Контік» з ваніліном, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929822-163598-pechivo-super-kontik-z-vanilinom-100g-336.jpg?t=t1645655673",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929822-163598-pechivo-super-kontik-z-vanilinom-100g.jpg?t=t1645655705",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechivo-super-kontik-z-vanilinom-100g/",
+                "liked": 0,
+                "desc": "Печиво «Супер Контік» з ваніліном, 100г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "2386",
+                                "nameru": "Конти",
+                                "name_orig": "Konti",
+                                "name": "Конті",
+                                "image": "https://gotoshop.ua/img/brands/1607508397-1.png?t=t1607508397",
+                                "url": "https://gotoshop.ua/?brand_id=2386"
+                        }
+                ]
+        },
+        {
+                "id": "2929816",
+                "pricebefore": "57.49",
+                "priceafter": "39.99",
+                "discount_type": "",
+                "discount": "30",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/vafli-premiia-r-karamelni",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Вафлі «Премія»® карамельні, 250г",
+                "name": "Вафлі «Премія»® карамельні, 250г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929816-163598-vafli-premiya-karamelni-250g-336.jpg?t=t1645655672",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929816-163598-vafli-premiya-karamelni-250g.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-vafli-premiya-karamelni-250g/",
+                "liked": 0,
+                "desc": "Вафлі «Премія»® карамельні, 250г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7167",
+                                "nameru": "Премия",
+                                "name_orig": "Премія",
+                                "name": "Премія",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7167"
+                        }
+                ]
+        },
+        {
+                "id": "2929806",
+                "pricebefore": "15.59",
+                "priceafter": "10.99",
+                "discount_type": "",
+                "discount": "30",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechivo-yarych-petit-beurre-z-visivkami",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печиво Yarych Petit Beurre з висівками, 155г",
+                "name": "Печиво Yarych Petit Beurre з висівками, 155г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929806-163598-pechivo-yarych-petit-beurre-z-visivkami-155g-336.jpg?t=t1645655670",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929806-163598-pechivo-yarych-petit-beurre-z-visivkami-155g.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechivo-yarych-petit-beurre-z-visivkami-155g/",
+                "liked": 0,
+                "desc": "Печиво Yarych Petit Beurre з висівками, 155г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4554",
+                                "nameru": "Ярыч",
+                                "name_orig": "Yarych",
+                                "name": "Ярич",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4554"
+                        }
+                ]
+        },
+        {
+                "id": "2929805",
+                "pricebefore": "16.29",
+                "priceafter": "10.99",
+                "discount_type": "",
+                "discount": "33",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechivo-yarych-petit-beurre-z-kakao",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печиво Yarych Petit Beurre з какао, 155г",
+                "name": "Печиво Yarych Petit Beurre з какао, 155г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929805-163598-pechivo-yarych-petit-beurre-z-kakao-155g-336.jpg?t=t1645655669",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929805-163598-pechivo-yarych-petit-beurre-z-kakao-155g.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechivo-yarych-petit-beurre-z-kakao-155g/",
+                "liked": 0,
+                "desc": "Печиво Yarych Petit Beurre з какао, 155г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4554",
+                                "nameru": "Ярыч",
+                                "name_orig": "Yarych",
+                                "name": "Ярич",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4554"
+                        }
+                ]
+        },
+        {
+                "id": "2929796",
+                "pricebefore": "122",
+                "priceafter": "85.99",
+                "discount_type": "",
+                "discount": "30",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechivo-delitsiia-raiski-iabluchka-zdobne",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печиво «Деліція» «Райські яблучка» здобне, кг",
+                "name": "Печиво «Деліція» «Райські яблучка» здобне, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929796-163598-pechivo-deliciya-rajjski-yabluchka-zdobne-kg-336.jpg?t=t1645655668",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929796-163598-pechivo-deliciya-rajjski-yabluchka-zdobne-kg.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechivo-deliciya-rajjski-yabluchka-zdobne-kg/",
+                "liked": 0,
+                "desc": "Печиво «Деліція» «Райські яблучка» здобне, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5571",
+                                "nameru": "Делиция",
+                                "name_orig": "Delicia",
+                                "name": "Деліція",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5571"
+                        }
+                ]
+        },
+        {
+                "id": "2929794",
+                "pricebefore": "35.99",
+                "priceafter": "24.99",
+                "discount_type": "",
+                "discount": "31",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/prianiki-kiyivkhlib-pivnichni",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пряники «Київхліб» «Північні», 420г",
+                "name": "Пряники «Київхліб» «Північні», 420г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929794-163598-pryaniki-kiivkhlib-pivnichni-420g-336.jpg?t=t1645655668",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929794-163598-pryaniki-kiivkhlib-pivnichni-420g.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "5",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pryaniki-kiivkhlib-pivnichni-420g/",
+                "liked": 0,
+                "desc": "Пряники «Київхліб» «Північні», 420г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4879",
+                                "nameru": "Киевхлеб",
+                                "name_orig": "Київхліб",
+                                "name": "Київхліб",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4879"
+                        }
+                ]
+        },
+        {
+                "id": "2929793",
+                "pricebefore": "38.19",
+                "priceafter": "25.99",
+                "discount_type": "",
+                "discount": "32",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/prianiki-kiyivkhlib-kiyivski",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пряники «Київхліб» «Київські», 420г",
+                "name": "Пряники «Київхліб» «Київські», 420г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929793-163598-pryaniki-kiivkhlib-kiivski-420g-336.jpg?t=t1645655667",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929793-163598-pryaniki-kiivkhlib-kiivski-420g.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pryaniki-kiivkhlib-kiivski-420g/",
+                "liked": 0,
+                "desc": "Пряники «Київхліб» «Київські», 420г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4879",
+                                "nameru": "Киевхлеб",
+                                "name_orig": "Київхліб",
+                                "name": "Київхліб",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4879"
+                        }
+                ]
+        },
+        {
+                "id": "2929792",
+                "pricebefore": "35.99",
+                "priceafter": "24.99",
+                "discount_type": "",
+                "discount": "31",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/prianiki-kiyivkhlib-veselka",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пряники «Київхліб» «Веселка», 420г",
+                "name": "Пряники «Київхліб» «Веселка», 420г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929792-163598-pryaniki-kiivkhlib-veselka-420g-336.jpg?t=t1645655667",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929792-163598-pryaniki-kiivkhlib-veselka-420g.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pryaniki-kiivkhlib-veselka-420g/",
+                "liked": 0,
+                "desc": "Пряники «Київхліб» «Веселка», 420г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4879",
+                                "nameru": "Киевхлеб",
+                                "name_orig": "Київхліб",
+                                "name": "Київхліб",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4879"
+                        }
+                ]
+        },
+        {
+                "id": "2929791",
+                "pricebefore": "91.99",
+                "priceafter": "64.99",
+                "discount_type": "",
+                "discount": "29",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechivo-boguslavna-bilosnizhka",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печиво «Богуславна» «Білосніжка», кг",
+                "name": "Печиво «Богуславна» «Білосніжка», кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929791-163598-pechivo-boguslavna-bilosnizhka-kg-336.jpg?t=t1645655667",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929791-163598-pechivo-boguslavna-bilosnizhka-kg.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 4,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechivo-boguslavna-bilosnizhka-kg/",
+                "liked": 0,
+                "desc": "Печиво «Богуславна» «Білосніжка», кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5532",
+                                "nameru": "",
+                                "name_orig": "Богуславна",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5532"
+                        }
+                ]
+        },
+        {
+                "id": "2929790",
+                "pricebefore": "51.99",
+                "priceafter": "35.99",
+                "discount_type": "",
+                "discount": "31",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechivo-boguslavna-vivsiane-zi-shmatochkami-glazuri",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печиво «Богуславна» вівсяне зі шматочками глазурі, 400г",
+                "name": "Печиво «Богуславна» вівсяне зі шматочками глазурі, 400г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929790-163598-pechivo-boguslavna-vivsyane-zi-shmatochkami-glazuri-400g-336.jpg?t=t1645655667",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929790-163598-pechivo-boguslavna-vivsyane-zi-shmatochkami-glazuri-400g.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechivo-boguslavna-vivsyane-zi-shmatochkami-glazuri-400g/",
+                "liked": 0,
+                "desc": "Печиво «Богуславна» вівсяне зі шматочками глазурі, 400г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5532",
+                                "nameru": "",
+                                "name_orig": "Богуславна",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5532"
+                        }
+                ]
+        },
+        {
+                "id": "2929767",
+                "pricebefore": "29.99",
+                "priceafter": "22.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/vafli-premiia-z-kakao",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Вафлі «Премія» з какао, 200г",
+                "name": "Вафлі «Премія» з какао, 200г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929767-163598-vafli-premiya-z-kakao-200g-336.jpg?t=t1645655662",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929767-163598-vafli-premiya-z-kakao-200g.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-vafli-premiya-z-kakao-200g/",
+                "liked": 0,
+                "desc": "Вафлі «Премія» з какао, 200г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7167",
+                                "nameru": "Премия",
+                                "name_orig": "Премія",
+                                "name": "Премія",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7167"
+                        }
+                ]
+        },
+        {
+                "id": "2929766",
+                "pricebefore": "29.99",
+                "priceafter": "22.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/vafli-premiia-r-z-vanilliu-72",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Вафлі «Премія»® з ваніллю 72%, 200г",
+                "name": "Вафлі «Премія»® з ваніллю 72%, 200г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929766-163598-vafli-premiya-z-vanillyu-72-200g-336.jpg?t=t1645655662",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929766-163598-vafli-premiya-z-vanillyu-72-200g.jpg?t=t1645655704",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-vafli-premiya-z-vanillyu-72-200g/",
+                "liked": 0,
+                "desc": "Вафлі «Премія»® з ваніллю 72%, 200г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7167",
+                                "nameru": "Премия",
+                                "name_orig": "Премія",
+                                "name": "Премія",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7167"
+                        }
+                ]
+        },
+        {
+                "id": "2929284",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163586",
+                "image_contains_price": "1",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-16 00:00:00",
+                "name2": "",
+                "name": "Вафлі, вафельні коржі",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163586/2929284-163586-203716456347592300-336.jpg?t=t1645634643",
+                        "w": 336,
+                        "h": 446
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163586/2929284-163586-203716456347592300.jpg?t=t1645634775",
+                        "w": 1024,
+                        "h": 1360
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "164"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>15</span> днів",
+                "date": "24 Лютого - 16 Березня 2022",
+                "discount_name": "Акційний каталог",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163586-203716456347592300/",
+                "liked": 0,
+                "desc": "Вафлі, вафельні коржі. \"Акційний каталог (24 Лютого - 16 Березня 2022)\" від супермаркетів Копійочка в місті ",
+                "discount_url": "/buchach-ternopolskaya/discounts/akcijjnijj-katalog-24-02-2022-16-03-2022-kopijjochka/",
+                "brands": [
+                        {
+                                "id": "17343",
+                                "nameru": "",
+                                "name_orig": "Cukiernia roza",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=17343"
+                        }
+                ]
+        },
+        {
+                "id": "2929282",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163586",
+                "image_contains_price": "1",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-16 00:00:00",
+                "name2": "",
+                "name": "Вафлі, вафельні коржі",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163586/2929282-163586-23016456347592191-336.jpg?t=t1645634641",
+                        "w": 336,
+                        "h": 444
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163586/2929282-163586-23016456347592191.jpg?t=t1645634775",
+                        "w": 1024,
+                        "h": 1353
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "164"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>15</span> днів",
+                "date": "24 Лютого - 16 Березня 2022",
+                "discount_name": "Акційний каталог",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163586-23016456347592191/",
+                "liked": 0,
+                "desc": "Вафлі, вафельні коржі. \"Акційний каталог (24 Лютого - 16 Березня 2022)\" від супермаркетів Копійочка в місті ",
+                "discount_url": "/buchach-ternopolskaya/discounts/akcijjnijj-katalog-24-02-2022-16-03-2022-kopijjochka/",
+                "brands": [
+                        {
+                                "id": "1594",
+                                "nameru": "",
+                                "name_orig": "Fiesta",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1594"
+                        }
+                ]
+        },
+        {
+                "id": "2925567",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Печиво, пряники, баранки, бублики, сушка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925567-163503-151116455368184828-336.jpg?t=t1645536716",
+                        "w": 336,
+                        "h": 304
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925567-163503-151116455368184828.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 925
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-151116455368184828/",
+                "liked": 0,
+                "desc": "Печиво, пряники, баранки, бублики, сушка. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "5571",
+                                "nameru": "Делиция",
+                                "name_orig": "Delicia",
+                                "name": "Деліція",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5571"
+                        }
+                ]
+        },
+        {
+                "id": "2925564",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Печиво, пряники, баранки, бублики, сушка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925564-163503-64791645536818850-336.jpg?t=t1645536715",
+                        "w": 336,
+                        "h": 310
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925564-163503-64791645536818850.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 946
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-64791645536818850/",
+                "liked": 0,
+                "desc": "Печиво, пряники, баранки, бублики, сушка. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "4608",
+                                "nameru": "АВК",
+                                "name_orig": "АВК",
+                                "name": "АВК",
+                                "image": "https://gotoshop.ua/img/brands/1607508045-5.png?t=t1607508045",
+                                "url": "https://gotoshop.ua/?brand_id=4608"
+                        }
+                ]
+        },
+        {
+                "id": "2891903",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Вафлі, вафельні коржі",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891903-162332-408816444071523710-336.jpg?t=t1644407028",
+                        "w": 336,
+                        "h": 417
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891903-162332-408816444071523710.jpg?t=t1644407172",
+                        "w": 1024,
+                        "h": 1271
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-408816444071523710/",
+                "liked": 0,
+                "desc": "Вафлі, вафельні коржі. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "10947",
+                                "nameru": "",
+                                "name_orig": "Lumar",
+                                "name": "Люмар",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10947"
+                        }
+                ]
+        },
+        {
+                "id": "2891896",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Печиво, пряники, баранки, бублики, сушка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891896-162332-678416444071526313-336.jpg?t=t1644407022",
+                        "w": 336,
+                        "h": 418
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891896-162332-678416444071526313.jpg?t=t1644407171",
+                        "w": 1024,
+                        "h": 1273
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-678416444071526313/",
+                "liked": 0,
+                "desc": "Печиво, пряники, баранки, бублики, сушка. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "8979",
+                                "nameru": "",
+                                "name_orig": "Bogutti",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=8979"
+                        }
+                ]
+        }
+]

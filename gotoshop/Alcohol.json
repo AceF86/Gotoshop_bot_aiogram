@@ -1,0 +1,843 @@
+[
+        {
+                "id": "2927412",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Віскі, Бурбон",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927412-163568-320116456198692668-336.jpg?t=t1645619802",
+                        "w": 336,
+                        "h": 527
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927412-163568-320116456198692668.jpg?t=t1645619889",
+                        "w": 1024,
+                        "h": 1605
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-320116456198692668/",
+                "liked": 0,
+                "desc": "Віскі, Бурбон. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2929719",
+                "pricebefore": "399",
+                "priceafter": "299",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/viski-glen-silvers-blended-malt",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Віскі Glen Silver's Blended Malt, 0,7л",
+                "name": "Віскі Glen Silver's Blended Malt, 0,7л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929719-163598-viski-glen-silvers-blended-malt-07l-336.jpg?t=t1645655654",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929719-163598-viski-glen-silvers-blended-malt-07l.jpg?t=t1645655703",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-viski-glen-silvers-blended-malt-07l/",
+                "liked": 0,
+                "desc": "Віскі Glen Silver's Blended Malt, 0,7л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "1834",
+                                "nameru": "",
+                                "name_orig": "Glen Silver's",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1834"
+                        }
+                ]
+        },
+        {
+                "id": "2929716",
+                "pricebefore": "589",
+                "priceafter": "329",
+                "discount_type": "",
+                "discount": "44",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/napii-na-osnovi-romu-bacardi-oakheart-original-35",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Напій на основі рому Bacardi Oakheart Original 35%, 1л",
+                "name": "Напій на основі рому Bacardi Oakheart Original 35%, 1л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929716-163598-napijj-na-osnovi-romu-bacardi-oakheart-original-35-1l-336.jpg?t=t1645655653",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929716-163598-napijj-na-osnovi-romu-bacardi-oakheart-original-35-1l.jpg?t=t1645655703",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-napijj-na-osnovi-romu-bacardi-oakheart-original-35-1l/",
+                "liked": 0,
+                "desc": "Напій на основі рому Bacardi Oakheart Original 35%, 1л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "280",
+                                "nameru": "Бакарди",
+                                "name_orig": "Bacardi",
+                                "name": "Бакарді",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=280"
+                        }
+                ]
+        },
+        {
+                "id": "2929711",
+                "pricebefore": "219",
+                "priceafter": "169",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/gorilka-danzka",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Горілка Danzka, 0,5л",
+                "name": "Горілка Danzka, 0,5л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929711-163598-gorilka-danzka-05l-336.jpg?t=t1645655652",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929711-163598-gorilka-danzka-05l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-gorilka-danzka-05l/",
+                "liked": 0,
+                "desc": "Горілка Danzka, 0,5л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "1188",
+                                "nameru": "",
+                                "name_orig": "Danzka",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1188"
+                        }
+                ]
+        },
+        {
+                "id": "2929710",
+                "pricebefore": "549",
+                "priceafter": "309",
+                "discount_type": "",
+                "discount": "44",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/viski-dewars-white-label",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Віскі Dewar's White Label, 0,7л",
+                "name": "Віскі Dewar's White Label, 0,7л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929710-163598-viski-dewars-white-label-07l-336.jpg?t=t1645655652",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929710-163598-viski-dewars-white-label-07l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-viski-dewars-white-label-07l/",
+                "liked": 0,
+                "desc": "Віскі Dewar's White Label, 0,7л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "1228",
+                                "nameru": "Деварс",
+                                "name_orig": "Dewar's",
+                                "name": "Деварс",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1228"
+                        }
+                ]
+        },
+        {
+                "id": "2929709",
+                "pricebefore": "47.99",
+                "priceafter": "35.99",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sidr-val-de-rance-doux",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сидр Val de Rance Doux, 0,33л",
+                "name": "Сидр Val de Rance Doux, 0,33л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929709-163598-sidr-val-de-rance-doux-033l-336.jpg?t=t1645655652",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929709-163598-sidr-val-de-rance-doux-033l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sidr-val-de-rance-doux-033l/",
+                "liked": 0,
+                "desc": "Сидр Val de Rance Doux, 0,33л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4326",
+                                "nameru": "",
+                                "name_orig": "Val de Rance",
+                                "name": "Вал де Ранс",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4326"
+                        }
+                ]
+        },
+        {
+                "id": "2929708",
+                "pricebefore": "47.99",
+                "priceafter": "35.99",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sidr-val-de-rance-zi-smakom-imbiru-ta-limona",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сидр Val de Rance зі смаком імбиру та лимона, 0,33л",
+                "name": "Сидр Val de Rance зі смаком імбиру та лимона, 0,33л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929708-163598-sidr-val-de-rance-zi-smakom-imbiru-ta-limona-033l-336.jpg?t=t1645655652",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929708-163598-sidr-val-de-rance-zi-smakom-imbiru-ta-limona-033l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sidr-val-de-rance-zi-smakom-imbiru-ta-limona-033l/",
+                "liked": 0,
+                "desc": "Сидр Val de Rance зі смаком імбиру та лимона, 0,33л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4326",
+                                "nameru": "",
+                                "name_orig": "Val de Rance",
+                                "name": "Вал де Ранс",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4326"
+                        }
+                ]
+        },
+        {
+                "id": "2929707",
+                "pricebefore": "47.99",
+                "priceafter": "35.99",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sidr-val-de-rance-zi-smakom-malini",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сидр Val de Rance зі смаком малини, 0,33л",
+                "name": "Сидр Val de Rance зі смаком малини, 0,33л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929707-163598-sidr-val-de-rance-zi-smakom-malini-033l-336.jpg?t=t1645655652",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929707-163598-sidr-val-de-rance-zi-smakom-malini-033l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sidr-val-de-rance-zi-smakom-malini-033l/",
+                "liked": 0,
+                "desc": "Сидр Val de Rance зі смаком малини, 0,33л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4326",
+                                "nameru": "",
+                                "name_orig": "Val de Rance",
+                                "name": "Вал де Ранс",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4326"
+                        }
+                ]
+        },
+        {
+                "id": "2929704",
+                "pricebefore": "699",
+                "priceafter": "459",
+                "discount_type": "",
+                "discount": "34",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/viski-dewars-caribbean-smooth-8-rokiv",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Віскі Dewar's Caribbean Smooth 8 років, 0,7л",
+                "name": "Віскі Dewar's Caribbean Smooth 8 років, 0,7л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929704-163598-viski-dewars-caribbean-smooth-8-rokiv-07l-336.jpg?t=t1645655651",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929704-163598-viski-dewars-caribbean-smooth-8-rokiv-07l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-viski-dewars-caribbean-smooth-8-rokiv-07l/",
+                "liked": 0,
+                "desc": "Віскі Dewar's Caribbean Smooth 8 років, 0,7л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "1228",
+                                "nameru": "Деварс",
+                                "name_orig": "Dewar's",
+                                "name": "Деварс",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1228"
+                        }
+                ]
+        },
+        {
+                "id": "2929703",
+                "pricebefore": "589",
+                "priceafter": "359",
+                "discount_type": "",
+                "discount": "39",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/napii-na-osnovi-romu-bacardi-oakheart-original-kelikh",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Напій на основі рому Bacardi Oakheart Original + келих, 1л",
+                "name": "Напій на основі рому Bacardi Oakheart Original + келих, 1л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929703-163598-napijj-na-osnovi-romu-bacardi-oakheart-original-kelikh-1l-336.jpg?t=t1645655651",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929703-163598-napijj-na-osnovi-romu-bacardi-oakheart-original-kelikh-1l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-napijj-na-osnovi-romu-bacardi-oakheart-original-kelikh-1l/",
+                "liked": 0,
+                "desc": "Напій на основі рому Bacardi Oakheart Original + келих, 1л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "280",
+                                "nameru": "Бакарди",
+                                "name_orig": "Bacardi",
+                                "name": "Бакарді",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=280"
+                        }
+                ]
+        },
+        {
+                "id": "2929700",
+                "pricebefore": "117",
+                "priceafter": "89.44",
+                "discount_type": "",
+                "discount": "24",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/gorilka-khortitsia-silver-ice",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Горілка «Хортиця» Silver Ice, 0,5л",
+                "name": "Горілка «Хортиця» Silver Ice, 0,5л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929700-163598-gorilka-khorticya-silver-ice-05l-336.jpg?t=t1645655651",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929700-163598-gorilka-khorticya-silver-ice-05l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-gorilka-khorticya-silver-ice-05l/",
+                "liked": 0,
+                "desc": "Горілка «Хортиця» Silver Ice, 0,5л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5278",
+                                "nameru": "Хортиця",
+                                "name_orig": "Хортиця",
+                                "name": "Хортиця",
+                                "image": "https://gotoshop.ua/img/brands/1607509006-8.png?t=t1607509006",
+                                "url": "https://gotoshop.ua/?brand_id=5278"
+                        }
+                ]
+        },
+        {
+                "id": "2929695",
+                "pricebefore": "649",
+                "priceafter": "459",
+                "discount_type": "",
+                "discount": "29",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/viski-dewars-japanase-smooth-8-years-old",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Віскі Dewar's Japanase Smooth 8 Years Old, 0,7л",
+                "name": "Віскі Dewar's Japanase Smooth 8 Years Old, 0,7л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929695-163598-viski-dewars-japanase-smooth-8-years-old-07l-336.jpg?t=t1645655650",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929695-163598-viski-dewars-japanase-smooth-8-years-old-07l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-viski-dewars-japanase-smooth-8-years-old-07l/",
+                "liked": 0,
+                "desc": "Віскі Dewar's Japanase Smooth 8 Years Old, 0,7л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "1228",
+                                "nameru": "Деварс",
+                                "name_orig": "Dewar's",
+                                "name": "Деварс",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1228"
+                        }
+                ]
+        },
+        {
+                "id": "2925544",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Горілка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925544-163503-280916455368172047-336.jpg?t=t1645536705",
+                        "w": 336,
+                        "h": 263
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925544-163503-280916455368172047.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 803
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-280916455368172047/",
+                "liked": 0,
+                "desc": "Горілка. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "1922",
+                                "nameru": "Грин Дей",
+                                "name_orig": "Green Day",
+                                "name": "Грін Дей",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1922"
+                        }
+                ]
+        },
+        {
+                "id": "2891883",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Горілка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891883-162332-556416444071526176-336.jpg?t=t1644407006",
+                        "w": 336,
+                        "h": 492
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891883-162332-556416444071526176.jpg?t=t1644407170",
+                        "w": 1024,
+                        "h": 1500
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-556416444071526176/",
+                "liked": 0,
+                "desc": "Горілка. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "1693",
+                                "nameru": "Фрателли",
+                                "name_orig": "Fratelli",
+                                "name": "Фрателлі",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1693"
+                        }
+                ]
+        },
+        {
+                "id": "2891882",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Настоянки, бальзами",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891882-162332-95716444071525353-336.jpg?t=t1644407006",
+                        "w": 336,
+                        "h": 403
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891882-162332-95716444071525353.jpg?t=t1644407170",
+                        "w": 1024,
+                        "h": 1227
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-95716444071525353/",
+                "liked": 0,
+                "desc": "Настоянки, бальзами. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "4602",
+                                "nameru": "",
+                                "name_orig": "Zubrowka",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4602"
+                        }
+                ]
+        },
+        {
+                "id": "2891881",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Ром, ромові напої",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891881-162332-606816444071524370-336.jpg?t=t1644407005",
+                        "w": 336,
+                        "h": 472
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891881-162332-606816444071524370.jpg?t=t1644407170",
+                        "w": 1024,
+                        "h": 1438
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-606816444071524370/",
+                "liked": 0,
+                "desc": "Ром, ромові напої. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "730",
+                                "nameru": "Капитан Морган",
+                                "name_orig": "Captain Morgan",
+                                "name": "Капітан Морган",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=730"
+                        }
+                ]
+        },
+        {
+                "id": "2896686",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162621",
+                "image_contains_price": "1",
+                "startdate": "2022-02-10 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "",
+                "name": "Аперитив, Лікери",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162621/2896686-162621-590716445830234795-336.jpg?t=t1644582933",
+                        "w": 336,
+                        "h": 440
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162621/2896686-162621-590716445830234795.jpg?t=t1644583030",
+                        "w": 1024,
+                        "h": 1341
+                },
+                "countPlus": "0",
+                "countMinus": 3,
+                "shops_ids": [
+                        "9"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "10 Лютого - 9 Березня 2022",
+                "discount_name": "Лікери та аперитиви TM Aperol зі знижкою до 35%",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162621-590716445830234795/",
+                "liked": 0,
+                "desc": "Аперитив, Лікери. \"Лікери та аперитиви TM Aperol зі знижкою до 35% (10 Лютого - 9 Березня 2022)\" від супермаркетів Епіцентр в місті ",
+                "discount_url": "/chernigov/discounts/likeri-ta-aperitivi-tm-aperol-zi-znizhkoyu-do-35-10-02-2022-09-03-2022-epicentr/",
+                "brands": [
+                        {
+                                "id": "188",
+                                "nameru": "Апероль",
+                                "name_orig": "Aperol",
+                                "name": "Апероль",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=188"
+                        }
+                ]
+        }
+]

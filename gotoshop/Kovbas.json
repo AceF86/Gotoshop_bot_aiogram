@@ -1,0 +1,675 @@
+[
+        {
+                "id": "2927433",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Ковбаса, шинка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927433-163568-951316456198695558-336.jpg?t=t1645619824",
+                        "w": 336,
+                        "h": 599
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927433-163568-951316456198695558.jpg?t=t1645619890",
+                        "w": 1024,
+                        "h": 1825
+                },
+                "countPlus": "0",
+                "countMinus": 7,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "1",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-951316456198695558/",
+                "liked": 0,
+                "desc": "Ковбаса, шинка. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2927431",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Сосиски",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927431-163568-2131645619869518-336.jpg?t=t1645619820",
+                        "w": 336,
+                        "h": 591
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927431-163568-2131645619869518.jpg?t=t1645619890",
+                        "w": 1024,
+                        "h": 1800
+                },
+                "countPlus": "1",
+                "countMinus": 2,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-2131645619869518/",
+                "liked": 0,
+                "desc": "Сосиски. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2927430",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Паштети м'ясні",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927430-163568-25416456198692239-336.jpg?t=t1645619819",
+                        "w": 336,
+                        "h": 592
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927430-163568-25416456198692239.jpg?t=t1645619890",
+                        "w": 1024,
+                        "h": 1805
+                },
+                "countPlus": "0",
+                "countMinus": 4,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-25416456198692239/",
+                "liked": 0,
+                "desc": "Паштети м'ясні. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2930034",
+                "pricebefore": "249",
+                "priceafter": "149",
+                "discount_type": "",
+                "discount": "40",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/kovbasa-saliami-farro-madera-v-k-v-g",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Ковбаса салямі «Фарро» «Мадера«» в/к в/ґ, кг",
+                "name": "Ковбаса салямі «Фарро» «Мадера«» в/к в/ґ, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930034-163598-kovbasa-salyami-farro-madera-v-k-v-kg-336.jpg?t=t1645655711",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930034-163598-kovbasa-salyami-farro-madera-v-k-v-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 7,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "4",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-kovbasa-salyami-farro-madera-v-k-v-kg/",
+                "liked": 0,
+                "desc": "Ковбаса салямі «Фарро» «Мадера«» в/к в/ґ, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5247",
+                                "nameru": "",
+                                "name_orig": "Фарро",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5247"
+                        }
+                ]
+        },
+        {
+                "id": "2930033",
+                "pricebefore": "73.99",
+                "priceafter": "42.99",
+                "discount_type": "",
+                "discount": "42",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/kovbasa-casademont-salchichon-extra-loncheado-ispaniia",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Ковбаса Casademont Salchichon Extra Loncheado, Іспанія, 100г",
+                "name": "Ковбаса Casademont Salchichon Extra Loncheado, Іспанія, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930033-163598-kovbasa-casademont-salchichon-extra-loncheado-ispaniya-100g-336.jpg?t=t1645655711",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930033-163598-kovbasa-casademont-salchichon-extra-loncheado-ispaniya-100g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 4,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-kovbasa-casademont-salchichon-extra-loncheado-ispaniya-100g/",
+                "liked": 0,
+                "desc": "Ковбаса Casademont Salchichon Extra Loncheado, Іспанія, 100г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "766",
+                                "nameru": "Касадемонт",
+                                "name_orig": "Casademont",
+                                "name": "Касадемонт",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=766"
+                        }
+                ]
+        },
+        {
+                "id": "2930032",
+                "pricebefore": "52.99",
+                "priceafter": "29.99",
+                "discount_type": "",
+                "discount": "43",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/kovbasa-farro-prezidentska-s-k-v-g-narizka",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Ковбаса «Фарро» «Президентська» с/к в/ґ, нарізка, 80г",
+                "name": "Ковбаса «Фарро» «Президентська» с/к в/ґ, нарізка, 80г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930032-163598-kovbasa-farro-prezidentska-s-k-v-narizka-80g-336.jpg?t=t1645655711",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930032-163598-kovbasa-farro-prezidentska-s-k-v-narizka-80g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-kovbasa-farro-prezidentska-s-k-v-narizka-80g/",
+                "liked": 0,
+                "desc": "Ковбаса «Фарро» «Президентська» с/к в/ґ, нарізка, 80г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5247",
+                                "nameru": "",
+                                "name_orig": "Фарро",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5247"
+                        }
+                ]
+        },
+        {
+                "id": "2930031",
+                "pricebefore": "219",
+                "priceafter": "119",
+                "discount_type": "",
+                "discount": "46",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sosiski-miasna-gildiia-z-vershkami-ta-z-file-indichki-v-g",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сосиски «М'ясна Гільдія» з вершками та з філе індички в/ґ, кг",
+                "name": "Сосиски «М'ясна Гільдія» з вершками та з філе індички в/ґ, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930031-163598-sosiski-myasna-gildiya-z-vershkami-ta-z-file-indichki-v-kg-336.jpg?t=t1645655711",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930031-163598-sosiski-myasna-gildiya-z-vershkami-ta-z-file-indichki-v-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 4,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "2",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sosiski-myasna-gildiya-z-vershkami-ta-z-file-indichki-v-kg/",
+                "liked": 0,
+                "desc": "Сосиски «М'ясна Гільдія» з вершками та з філе індички в/ґ, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5007",
+                                "nameru": "Мясная Гильдия",
+                                "name_orig": "М'ясна Гільдія",
+                                "name": "М'ясна Гільдія",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5007"
+                        }
+                ]
+        },
+        {
+                "id": "2930030",
+                "pricebefore": "53.99",
+                "priceafter": "39.99",
+                "discount_type": "",
+                "discount": "26",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sosiski-iuvileinii-shalena-simeika",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сосиски «Ювілейний» «Шалена сімейка», 300г",
+                "name": "Сосиски «Ювілейний» «Шалена сімейка», 300г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930030-163598-sosiski-yuvilejjnijj-shalena-simejjka-300g-336.jpg?t=t1645655711",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930030-163598-sosiski-yuvilejjnijj-shalena-simejjka-300g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sosiski-yuvilejjnijj-shalena-simejjka-300g/",
+                "liked": 0,
+                "desc": "Сосиски «Ювілейний» «Шалена сімейка», 300г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5336",
+                                "nameru": "Ювилейный",
+                                "name_orig": "Ювілейний",
+                                "name": "Ювілейний",
+                                "image": "https://gotoshop.ua/img/brands/1607509051-3.png?t=t1607509051",
+                                "url": "https://gotoshop.ua/?brand_id=5336"
+                        }
+                ]
+        },
+        {
+                "id": "2929852",
+                "pricebefore": "34.89",
+                "priceafter": "23.99",
+                "discount_type": "",
+                "discount": "31",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pashtet-podravka-pechinkovii-klasichnii",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Паштет Podravka печінковий класичний, 95г",
+                "name": "Паштет Podravka печінковий класичний, 95г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929852-163598-pashtet-podravka-pechinkovijj-klasichnijj-95g-336.jpg?t=t1645655678",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929852-163598-pashtet-podravka-pechinkovijj-klasichnijj-95g.jpg?t=t1645655705",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pashtet-podravka-pechinkovijj-klasichnijj-95g/",
+                "liked": 0,
+                "desc": "Паштет Podravka печінковий класичний, 95г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7569",
+                                "nameru": "Подравка",
+                                "name_orig": "Podravka",
+                                "name": "Подравка",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7569"
+                        }
+                ]
+        },
+        {
+                "id": "2925587",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Ковбаса, шинка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925587-163503-68916455368184485-336.jpg?t=t1645536731",
+                        "w": 336,
+                        "h": 427
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925587-163503-68916455368184485.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 1302
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-68916455368184485/",
+                "liked": 0,
+                "desc": "Ковбаса, шинка. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "4666",
+                                "nameru": "",
+                                "name_orig": "Бащинський",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4666"
+                        }
+                ]
+        },
+        {
+                "id": "2891913",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Ковбаса, шинка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891913-162332-548116444071529577-336.jpg?t=t1644407040",
+                        "w": 336,
+                        "h": 552
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891913-162332-548116444071529577.jpg?t=t1644407173",
+                        "w": 1024,
+                        "h": 1682
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-548116444071529577/",
+                "liked": 0,
+                "desc": "Ковбаса, шинка. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "733",
+                                "nameru": "Карчележо",
+                                "name_orig": "Carchelejo",
+                                "name": "Карчележо",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=733"
+                        }
+                ]
+        },
+        {
+                "id": "2891912",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Ковбаса, шинка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891912-162332-45651644407152374-336.jpg?t=t1644407039",
+                        "w": 336,
+                        "h": 685
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891912-162332-45651644407152374.jpg?t=t1644407172",
+                        "w": 1024,
+                        "h": 2089
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-45651644407152374/",
+                "liked": 0,
+                "desc": "Ковбаса, шинка. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "13865",
+                                "nameru": "",
+                                "name_orig": "ІКО",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=13865"
+                        }
+                ]
+        },
+        {
+                "id": "2891911",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Ковбаса, шинка",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891911-162332-816716444071525356-336.jpg?t=t1644407038",
+                        "w": 336,
+                        "h": 620
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891911-162332-816716444071525356.jpg?t=t1644407172",
+                        "w": 1024,
+                        "h": 1888
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-816716444071525356/",
+                "liked": 0,
+                "desc": "Ковбаса, шинка. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "7241",
+                                "nameru": "Мясовита",
+                                "name_orig": "М'ясовіта",
+                                "name": "М'ясовіта",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7241"
+                        }
+                ]
+        },
+        {
+                "id": "2891909",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Сосиски",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891909-162332-827816444071528405-336.jpg?t=t1644407036",
+                        "w": 336,
+                        "h": 425
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891909-162332-827816444071528405.jpg?t=t1644407172",
+                        "w": 1024,
+                        "h": 1296
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-827816444071528405/",
+                "liked": 0,
+                "desc": "Сосиски. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "4666",
+                                "nameru": "",
+                                "name_orig": "Бащинський",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4666"
+                        }
+                ]
+        }
+]

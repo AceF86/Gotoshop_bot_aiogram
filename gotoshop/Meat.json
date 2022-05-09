@@ -1,0 +1,967 @@
+[
+        {
+                "id": "2933580",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163654",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-08 00:00:00",
+                "name2": "",
+                "name": "Свіже та заморожене м'ясо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163654/2933580-163654-731816460494212259-336.jpg?t=t1646049396",
+                        "w": 336,
+                        "h": 336
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163654/2933580-163654-731816460494212259.jpg?t=t1646049396",
+                        "w": 1024,
+                        "h": 1024
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>7</span> днів",
+                "date": "28 Лютого - 8 Березня 2022",
+                "discount_name": "Акція",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163654-731816460494212259/",
+                "liked": 0,
+                "desc": "Свіже та заморожене м'ясо. \"Акція (28 Лютого - 8 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/akciya-28-02-2022-08-03-2022-vopak/",
+                "brands": []
+        },
+        {
+                "id": "2927449",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Свіже та заморожене м'ясо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927449-163568-773116456198697078-336.jpg?t=t1645619834",
+                        "w": 336,
+                        "h": 406
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927449-163568-773116456198697078.jpg?t=t1645619891",
+                        "w": 1024,
+                        "h": 1238
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "1",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-773116456198697078/",
+                "liked": 0,
+                "desc": "Свіже та заморожене м'ясо. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2927448",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Свіже та заморожене м'ясо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927448-163568-8570164561986913-336.jpg?t=t1645619833",
+                        "w": 336,
+                        "h": 407
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927448-163568-8570164561986913.jpg?t=t1645619891",
+                        "w": 1024,
+                        "h": 1241
+                },
+                "countPlus": "1",
+                "countMinus": 0,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "1",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-8570164561986913/",
+                "liked": 0,
+                "desc": "Свіже та заморожене м'ясо. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2927447",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Свіже та заморожене м'ясо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927447-163568-127416456198695282-336.jpg?t=t1645619833",
+                        "w": 336,
+                        "h": 409
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927447-163568-127416456198695282.jpg?t=t1645619891",
+                        "w": 1024,
+                        "h": 1247
+                },
+                "countPlus": "1",
+                "countMinus": 0,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "2",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-127416456198695282/",
+                "liked": 0,
+                "desc": "Свіже та заморожене м'ясо. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2927432",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "В'ялене м'ясо, копчене м'ясо, М'ясні страви і делікатеси",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927432-163568-806016456198694381-336.jpg?t=t1645619822",
+                        "w": 336,
+                        "h": 593
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927432-163568-806016456198694381.jpg?t=t1645619890",
+                        "w": 1024,
+                        "h": 1806
+                },
+                "countPlus": "1",
+                "countMinus": 5,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-806016456198694381/",
+                "liked": 0,
+                "desc": "В'ялене м'ясо, копчене м'ясо, М'ясні страви і делікатеси. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2930330",
+                "pricebefore": "69.99",
+                "priceafter": "57.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/shinka-gavrilovic-zi-svinini-dlia-sendvichiv",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Шинка Gavrilovic зі свинини для сендвічів, 150г",
+                "name": "Шинка Gavrilovic зі свинини для сендвічів, 150г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930330-163599-shinka-gavrilovic-zi-svinini-dlya-sendvichiv-150g-336.jpg?t=t1645655891",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930330-163599-shinka-gavrilovic-zi-svinini-dlya-sendvichiv-150g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-shinka-gavrilovic-zi-svinini-dlya-sendvichiv-150g/",
+                "liked": 0,
+                "desc": "Шинка Gavrilovic зі свинини для сендвічів, 150г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "14530",
+                                "nameru": "",
+                                "name_orig": "Gavrilovic ",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=14530"
+                        }
+                ]
+        },
+        {
+                "id": "2930329",
+                "pricebefore": "69.99",
+                "priceafter": "57.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/shinka-gavrilovic-z-ialovichini-dlia-sendvichiv",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Шинка Gavrilovic з яловичини для сендвічів, 150г",
+                "name": "Шинка Gavrilovic з яловичини для сендвічів, 150г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930329-163599-shinka-gavrilovic-z-yalovichini-dlya-sendvichiv-150g-336.jpg?t=t1645655891",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930329-163599-shinka-gavrilovic-z-yalovichini-dlya-sendvichiv-150g.jpg?t=t1645655966",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-shinka-gavrilovic-z-yalovichini-dlya-sendvichiv-150g/",
+                "liked": 0,
+                "desc": "Шинка Gavrilovic з яловичини для сендвічів, 150г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "14530",
+                                "nameru": "",
+                                "name_orig": "Gavrilovic ",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=14530"
+                        }
+                ]
+        },
+        {
+                "id": "2930050",
+                "pricebefore": "41.99",
+                "priceafter": "34.99",
+                "discount_type": "",
+                "discount": "17",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechinka-sviniacha-okholodzhena",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печінка свиняча охолоджена, кг",
+                "name": "Печінка свиняча охолоджена, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930050-163598-pechinka-svinyacha-okholodzhena-kg-336.jpg?t=t1645655715",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930050-163598-pechinka-svinyacha-okholodzhena-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 4,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "2",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechinka-svinyacha-okholodzhena-kg/",
+                "liked": 0,
+                "desc": "Печінка свиняча охолоджена, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": []
+        },
+        {
+                "id": "2930049",
+                "pricebefore": "114",
+                "priceafter": "89.99",
+                "discount_type": "",
+                "discount": "21",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/svinina-grudinka-okholodzhena",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Свинина, грудинка охолоджена, кг",
+                "name": "Свинина, грудинка охолоджена, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930049-163598-svinina-grudinka-okholodzhena-kg-336.jpg?t=t1645655714",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930049-163598-svinina-grudinka-okholodzhena-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 4,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "8",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-svinina-grudinka-okholodzhena-kg/",
+                "liked": 0,
+                "desc": "Свинина, грудинка охолоджена, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": []
+        },
+        {
+                "id": "2930048",
+                "pricebefore": "114",
+                "priceafter": "87.99",
+                "discount_type": "",
+                "discount": "23",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/svinina-lopatka-bez-kistki-okholodzhena",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Свинина, лопатка без кістки охолоджена, кг",
+                "name": "Свинина, лопатка без кістки охолоджена, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930048-163598-svinina-lopatka-bez-kistki-okholodzhena-kg-336.jpg?t=t1645655714",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930048-163598-svinina-lopatka-bez-kistki-okholodzhena-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "11",
+                "countMinus": 3,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "14",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-svinina-lopatka-bez-kistki-okholodzhena-kg/",
+                "liked": 0,
+                "desc": "Свинина, лопатка без кістки охолоджена, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": []
+        },
+        {
+                "id": "2930047",
+                "pricebefore": "119",
+                "priceafter": "94.99",
+                "discount_type": "",
+                "discount": "20",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/svinina-okist-bez-kistki-okholodzhenii",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Свинина, окіст без кістки охолоджений, кг",
+                "name": "Свинина, окіст без кістки охолоджений, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930047-163598-svinina-okist-bez-kistki-okholodzhenijj-kg-336.jpg?t=t1645655714",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930047-163598-svinina-okist-bez-kistki-okholodzhenijj-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "4",
+                "countMinus": 4,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "14",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-svinina-okist-bez-kistki-okholodzhenijj-kg/",
+                "liked": 0,
+                "desc": "Свинина, окіст без кістки охолоджений, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": []
+        },
+        {
+                "id": "2930046",
+                "pricebefore": "159",
+                "priceafter": "119.9",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/svinina-oshiiok-bez-kistki-okholodzhenii",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Свинина, ошийок без кістки охолоджений, кг",
+                "name": "Свинина, ошийок без кістки охолоджений, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930046-163598-svinina-oshijjok-bez-kistki-okholodzhenijj-kg-336.jpg?t=t1645655714",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930046-163598-svinina-oshijjok-bez-kistki-okholodzhenijj-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "6",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-svinina-oshijjok-bez-kistki-okholodzhenijj-kg/",
+                "liked": 0,
+                "desc": "Свинина, ошийок без кістки охолоджений, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": []
+        },
+        {
+                "id": "2930044",
+                "pricebefore": "47.99",
+                "priceafter": "34.99",
+                "discount_type": "",
+                "discount": "27",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pechinka-sviniacha-miasna-vesna-okholodzhena",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Печінка свиняча «М'ясна весна» охолоджена, кг",
+                "name": "Печінка свиняча «М'ясна весна» охолоджена, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930044-163598-pechinka-svinyacha-myasna-vesna-okholodzhena-kg-336.jpg?t=t1645655713",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930044-163598-pechinka-svinyacha-myasna-vesna-okholodzhena-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pechinka-svinyacha-myasna-vesna-okholodzhena-kg/",
+                "liked": 0,
+                "desc": "Печінка свиняча «М'ясна весна» охолоджена, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5006",
+                                "nameru": "Мясная Весна",
+                                "name_orig": "М'ясна Весна",
+                                "name": "М'ясна Весна",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5006"
+                        }
+                ]
+        },
+        {
+                "id": "2930035",
+                "pricebefore": "294",
+                "priceafter": "179",
+                "discount_type": "",
+                "discount": "39",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/buzhenina-po-domashnomu-globino-k-z",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Буженина по-домашньому «Глобино» к/з, кг",
+                "name": "Буженина по-домашньому «Глобино» к/з, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930035-163598-buzhenina-po-domashnomu-globino-k-z-kg-336.jpg?t=t1645655712",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930035-163598-buzhenina-po-domashnomu-globino-k-z-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 6,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-buzhenina-po-domashnomu-globino-k-z-kg/",
+                "liked": 0,
+                "desc": "Буженина по-домашньому «Глобино» к/з, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4738",
+                                "nameru": "Глобино",
+                                "name_orig": "Глобино",
+                                "name": "Глобино",
+                                "image": "https://gotoshop.ua/img/brands/1607508340-2.png?t=t1607508340",
+                                "url": "https://gotoshop.ua/?brand_id=4738"
+                        }
+                ]
+        },
+        {
+                "id": "2930029",
+                "pricebefore": "85.99",
+                "priceafter": "49.99",
+                "discount_type": "",
+                "discount": "42",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/khamon-kurado-sierra-morena-narizka-ispaniia",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Хамон курадо Sierra Morena, нарізка, Іспанія, 80г",
+                "name": "Хамон курадо Sierra Morena, нарізка, Іспанія, 80г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930029-163598-khamon-kurado-sierra-morena-narizka-ispaniya-80g-336.jpg?t=t1645655710",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930029-163598-khamon-kurado-sierra-morena-narizka-ispaniya-80g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 4,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-khamon-kurado-sierra-morena-narizka-ispaniya-80g/",
+                "liked": 0,
+                "desc": "Хамон курадо Sierra Morena, нарізка, Іспанія, 80г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "3863",
+                                "nameru": "Сиерра",
+                                "name_orig": "Sierra",
+                                "name": "Сіерра",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=3863"
+                        }
+                ]
+        },
+        {
+                "id": "2930028",
+                "pricebefore": "68.49",
+                "priceafter": "48.99",
+                "discount_type": "",
+                "discount": "28",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/bekon-monells-slaisi",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Бекон Monells, слайси, 110г",
+                "name": "Бекон Monells, слайси, 110г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930028-163598-bekon-monells-slajjsi-110g-336.jpg?t=t1645655710",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930028-163598-bekon-monells-slajjsi-110g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-bekon-monells-slajjsi-110g/",
+                "liked": 0,
+                "desc": "Бекон Monells, слайси, 110г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "11834",
+                                "nameru": "Монелс",
+                                "name_orig": "Monells",
+                                "name": "Монелс",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=11834"
+                        }
+                ]
+        },
+        {
+                "id": "2925574",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Свіже та заморожене м'ясо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925574-163503-605416455368188543-336.jpg?t=t1645536722",
+                        "w": 336,
+                        "h": 341
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925574-163503-605416455368188543.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 1038
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-605416455368188543/",
+                "liked": 0,
+                "desc": "Свіже та заморожене м'ясо. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": []
+        },
+        {
+                "id": "2925573",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Свіже та заморожене м'ясо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925573-163503-787516455368187984-336.jpg?t=t1645536722",
+                        "w": 336,
+                        "h": 391
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925573-163503-787516455368187984.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 1192
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-787516455368187984/",
+                "liked": 0,
+                "desc": "Свіже та заморожене м'ясо. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": []
+        },
+        {
+                "id": "2925563",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Свіже та заморожене м'ясо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925563-163503-586816455368188146-336.jpg?t=t1645536714",
+                        "w": 336,
+                        "h": 362
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925563-163503-586816455368188146.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 1104
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-586816455368188146/",
+                "liked": 0,
+                "desc": "Свіже та заморожене м'ясо. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": []
+        },
+        {
+                "id": "2891927",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Свіже та заморожене м'ясо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891927-162332-137816444071533262-336.jpg?t=t1644407056",
+                        "w": 336,
+                        "h": 436
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891927-162332-137816444071533262.jpg?t=t1644407174",
+                        "w": 1024,
+                        "h": 1328
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-137816444071533262/",
+                "liked": 0,
+                "desc": "Свіже та заморожене м'ясо. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": []
+        },
+        {
+                "id": "2891926",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Свіже та заморожене м'ясо",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891926-162332-931316444071537085-336.jpg?t=t1644407055",
+                        "w": 336,
+                        "h": 446
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891926-162332-931316444071537085.jpg?t=t1644407174",
+                        "w": 1024,
+                        "h": 1359
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-931316444071537085/",
+                "liked": 0,
+                "desc": "Свіже та заморожене м'ясо. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": []
+        },
+        {
+                "id": "2891910",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "М'ясні страви і делікатеси",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891910-162332-998316444071526103-336.jpg?t=t1644407037",
+                        "w": 336,
+                        "h": 555
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891910-162332-998316444071526103.jpg?t=t1644407172",
+                        "w": 1024,
+                        "h": 1692
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-998316444071526103/",
+                "liked": 0,
+                "desc": "М'ясні страви і делікатеси. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "7393",
+                                "nameru": "Верест",
+                                "name_orig": "Верест",
+                                "name": "Верест",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7393"
+                        }
+                ]
+        }
+]

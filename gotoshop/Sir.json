@@ -1,0 +1,934 @@
+[
+        {
+                "id": "2927445",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Твердий сир, сир, десерти сиркові",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927445-163568-307616456198692079-336.jpg?t=t1645619831",
+                        "w": 336,
+                        "h": 554
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927445-163568-307616456198692079.jpg?t=t1645619891",
+                        "w": 1024,
+                        "h": 1688
+                },
+                "countPlus": "0",
+                "countMinus": 4,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-307616456198692079/",
+                "liked": 0,
+                "desc": "Твердий сир, сир, десерти сиркові. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2927438",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Твердий сир, сир, десерти сиркові",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927438-163568-417016456198692014-336.jpg?t=t1645619827",
+                        "w": 336,
+                        "h": 600
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927438-163568-417016456198692014.jpg?t=t1645619890",
+                        "w": 1024,
+                        "h": 1829
+                },
+                "countPlus": "0",
+                "countMinus": 5,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-417016456198692014/",
+                "liked": 0,
+                "desc": "Твердий сир, сир, десерти сиркові. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2930283",
+                "pricebefore": "16.99",
+                "priceafter": "11.99",
+                "discount_type": "",
+                "discount": "29",
+                "externalurl": "https://silpo.ua/offers/akciyi-vlasnogo-importu/kreker-feria-z-provanskimi-travami",
+                "discounts_id": "163599",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-09 00:00:00",
+                "name2": "Крекер Feria з прованськими травами, 100г",
+                "name": "Крекер Feria з прованськими травами, 100г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930283-163599-kreker-feria-z-provanskimi-travami-100g-336.jpg?t=t1645655883",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163599/2930283-163599-kreker-feria-z-provanskimi-travami-100g.jpg?t=t1645655965",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>8</span> днів",
+                "date": "24 Лютого - 9 Березня 2022",
+                "discount_name": "Акції Власного імпорту",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 1,
+                "url": "https://gotoshop.ua/uzhgorod/products/163599-kreker-feria-z-provanskimi-travami-100g/",
+                "liked": 0,
+                "desc": "Крекер Feria з прованськими травами, 100г. \"Акції Власного імпорту (24 Лютого - 9 Березня 2022)\" від супермаркетів Сільпо, Le Silpo в місті ",
+                "discount_url": "/chernigov/discounts/akcii-vlasnogo-importu-24-02-2022-09-03-2022-silpo-le-silpo/",
+                "brands": [
+                        {
+                                "id": "9165",
+                                "nameru": "Ферия",
+                                "name_orig": "Feria",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9165"
+                        }
+                ]
+        },
+        {
+                "id": "2930027",
+                "pricebefore": "99",
+                "priceafter": "69.99",
+                "discount_type": "",
+                "discount": "29",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sir-paturages-comtois-kamamber-45-zhiru",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сир Paturages Comtois «Камамбер» 45% жиру, 240г",
+                "name": "Сир Paturages Comtois «Камамбер» 45% жиру, 240г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930027-163598-sir-paturages-comtois-kamamber-45-zhiru-240g-336.jpg?t=t1645655710",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930027-163598-sir-paturages-comtois-kamamber-45-zhiru-240g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sir-paturages-comtois-kamamber-45-zhiru-240g/",
+                "liked": 0,
+                "desc": "Сир Paturages Comtois «Камамбер» 45% жиру, 240г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5403",
+                                "nameru": "Патурагес Комтоис",
+                                "name_orig": "Paturages Comtois",
+                                "name": "Патурагес Комтоис",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5403"
+                        }
+                ]
+        },
+        {
+                "id": "2930026",
+                "pricebefore": "64.99",
+                "priceafter": "45.99",
+                "discount_type": "",
+                "discount": "29",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sir-la-cabane-bliu-dovern-laqueuille-52-z-koroviachogo-moloka",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сир La Cabane «Блю Д’Овернь» Laqueuille 52% з коров'ячого молока, 125г",
+                "name": "Сир La Cabane «Блю Д’Овернь» Laqueuille 52% з коров'ячого молока, 125г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930026-163598-sir-la-cabane-blyu-dovern-laqueuille-52-z-korovyachogo-moloka-125g-336.jpg?t=t1645655710",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930026-163598-sir-la-cabane-blyu-dovern-laqueuille-52-z-korovyachogo-moloka-125g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sir-la-cabane-blyu-dovern-laqueuille-52-z-korovyachogo-moloka-125g/",
+                "liked": 0,
+                "desc": "Сир La Cabane «Блю Д’Овернь» Laqueuille 52% з коров'ячого молока, 125г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7555",
+                                "nameru": "Ла Кабане",
+                                "name_orig": "La Cabane",
+                                "name": "Ла Кабане",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7555"
+                        }
+                ]
+        },
+        {
+                "id": "2930025",
+                "pricebefore": "334",
+                "priceafter": "204.9",
+                "discount_type": "",
+                "discount": "39",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sir-piriatin-gollandskii-45-zhiru",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сир «Пирятин» «Голландський» 45% жиру, кг",
+                "name": "Сир «Пирятин» «Голландський» 45% жиру, кг",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930025-163598-sir-piryatin-gollandskijj-45-zhiru-kg-336.jpg?t=t1645655710",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930025-163598-sir-piryatin-gollandskijj-45-zhiru-kg.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 11,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "2",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sir-piryatin-gollandskijj-45-zhiru-kg/",
+                "liked": 0,
+                "desc": "Сир «Пирятин» «Голландський» 45% жиру, кг. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5427",
+                                "nameru": "",
+                                "name_orig": "Пирятин",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5427"
+                        }
+                ]
+        },
+        {
+                "id": "2930024",
+                "pricebefore": "37.99",
+                "priceafter": "22.99",
+                "discount_type": "",
+                "discount": "39",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sir-de-lucia-motsarela-45-z-koroviachogo-moloka",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сир De Lucia моцарела 45% з коров'ячого молока, 125г",
+                "name": "Сир De Lucia моцарела 45% з коров'ячого молока, 125г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930024-163598-sir-de-lucia-mocarela-45-z-korovyachogo-moloka-125g-336.jpg?t=t1645655710",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930024-163598-sir-de-lucia-mocarela-45-z-korovyachogo-moloka-125g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "5",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "3",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sir-de-lucia-mocarela-45-z-korovyachogo-moloka-125g/",
+                "liked": 0,
+                "desc": "Сир De Lucia моцарела 45% з коров'ячого молока, 125г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "9057",
+                                "nameru": "",
+                                "name_orig": "De Lucia",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9057"
+                        }
+                ]
+        },
+        {
+                "id": "2930023",
+                "pricebefore": "47.99",
+                "priceafter": "32.99",
+                "discount_type": "",
+                "discount": "31",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sir-ghidetti-rikota-11-z-koroviachogo-moloka",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сир Ghidetti «Рикота» 11% з коров'ячого молока, 250г",
+                "name": "Сир Ghidetti «Рикота» 11% з коров'ячого молока, 250г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930023-163598-sir-ghidetti-rikota-11-z-korovyachogo-moloka-250g-336.jpg?t=t1645655709",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930023-163598-sir-ghidetti-rikota-11-z-korovyachogo-moloka-250g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sir-ghidetti-rikota-11-z-korovyachogo-moloka-250g/",
+                "liked": 0,
+                "desc": "Сир Ghidetti «Рикота» 11% з коров'ячого молока, 250г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5393",
+                                "nameru": "",
+                                "name_orig": "Ghidetti",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5393"
+                        }
+                ]
+        },
+        {
+                "id": "2930022",
+                "pricebefore": "14.89",
+                "priceafter": "10.99",
+                "discount_type": "",
+                "discount": "26",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sir-plavlenii-komo-vershkovii-40",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сир плавлений «Комо» вершковий 40%, 75г",
+                "name": "Сир плавлений «Комо» вершковий 40%, 75г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930022-163598-sir-plavlenijj-komo-vershkovijj-40-75g-336.jpg?t=t1645655709",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930022-163598-sir-plavlenijj-komo-vershkovijj-40-75g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "3",
+                "countMinus": 7,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "4",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sir-plavlenijj-komo-vershkovijj-40-75g/",
+                "liked": 0,
+                "desc": "Сир плавлений «Комо» вершковий 40%, 75г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5441",
+                                "nameru": "",
+                                "name_orig": "комо",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5441"
+                        }
+                ]
+        },
+        {
+                "id": "2930021",
+                "pricebefore": "14.89",
+                "priceafter": "10.99",
+                "discount_type": "",
+                "discount": "26",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sir-plavlenii-komo-z-zelenniu-ta-chasnikom-40",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сир плавлений «Комо» з зеленню та часником 40%, 75г",
+                "name": "Сир плавлений «Комо» з зеленню та часником 40%, 75г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930021-163598-sir-plavlenijj-komo-z-zelennyu-ta-chasnikom-40-75g-336.jpg?t=t1645655709",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930021-163598-sir-plavlenijj-komo-z-zelennyu-ta-chasnikom-40-75g.jpg?t=t1645655784",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 9,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sir-plavlenijj-komo-z-zelennyu-ta-chasnikom-40-75g/",
+                "liked": 0,
+                "desc": "Сир плавлений «Комо» з зеленню та часником 40%, 75г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "5441",
+                                "nameru": "",
+                                "name_orig": "комо",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5441"
+                        }
+                ]
+        },
+        {
+                "id": "2930002",
+                "pricebefore": "49.99",
+                "priceafter": "41.99",
+                "discount_type": "",
+                "discount": "16",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/desert-sirkovii-exquisa-z-polunitseiu-0-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Десерт сирковий Exquisa з полуницею 0,2%, 500г",
+                "name": "Десерт сирковий Exquisa з полуницею 0,2%, 500г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930002-163598-desert-sirkovijj-exquisa-z-poluniceyu-02-500g-336.jpg?t=t1645655705",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930002-163598-desert-sirkovijj-exquisa-z-poluniceyu-02-500g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-desert-sirkovijj-exquisa-z-poluniceyu-02-500g/",
+                "liked": 0,
+                "desc": "Десерт сирковий Exquisa з полуницею 0,2%, 500г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7267",
+                                "nameru": "Иксвайса",
+                                "name_orig": "Exquisa",
+                                "name": "Іксвайса",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7267"
+                        }
+                ]
+        },
+        {
+                "id": "2930001",
+                "pricebefore": "49.99",
+                "priceafter": "41.99",
+                "discount_type": "",
+                "discount": "16",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/desert-sirkovii-exquisa-z-vishneiu-0-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Десерт сирковий Exquisa з вишнею 0,2%, 500г",
+                "name": "Десерт сирковий Exquisa з вишнею 0,2%, 500г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930001-163598-desert-sirkovijj-exquisa-z-vishneyu-02-500g-336.jpg?t=t1645655705",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930001-163598-desert-sirkovijj-exquisa-z-vishneyu-02-500g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-desert-sirkovijj-exquisa-z-vishneyu-02-500g/",
+                "liked": 0,
+                "desc": "Десерт сирковий Exquisa з вишнею 0,2%, 500г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7267",
+                                "nameru": "Иксвайса",
+                                "name_orig": "Exquisa",
+                                "name": "Іксвайса",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7267"
+                        }
+                ]
+        },
+        {
+                "id": "2930000",
+                "pricebefore": "49.99",
+                "priceafter": "41.99",
+                "discount_type": "",
+                "discount": "16",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/desert-sirkovii-exquisa-persik-marakuia-0-2",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Десерт сирковий Exquisa персик-маракуя 0,2%, 500г",
+                "name": "Десерт сирковий Exquisa персик-маракуя 0,2%, 500г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930000-163598-desert-sirkovijj-exquisa-persik-marakuya-02-500g-336.jpg?t=t1645655705",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2930000-163598-desert-sirkovijj-exquisa-persik-marakuya-02-500g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "1",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-desert-sirkovijj-exquisa-persik-marakuya-02-500g/",
+                "liked": 0,
+                "desc": "Десерт сирковий Exquisa персик-маракуя 0,2%, 500г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7267",
+                                "nameru": "Иксвайса",
+                                "name_orig": "Exquisa",
+                                "name": "Іксвайса",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7267"
+                        }
+                ]
+        },
+        {
+                "id": "2929997",
+                "pricebefore": "52.99",
+                "priceafter": "41.99",
+                "discount_type": "",
+                "discount": "21",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/sir-kislomolochnii-molokiia-5",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Сир кисломолочний «Молокія» 5%, 350г",
+                "name": "Сир кисломолочний «Молокія» 5%, 350г",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929997-163598-sir-kislomolochnijj-molokiya-5-350g-336.jpg?t=t1645655705",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929997-163598-sir-kislomolochnijj-molokiya-5-350g.jpg?t=t1645655783",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 2,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "2",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-sir-kislomolochnijj-molokiya-5-350g/",
+                "liked": 0,
+                "desc": "Сир кисломолочний «Молокія» 5%, 350г. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7329",
+                                "nameru": "Молокия",
+                                "name_orig": "Молокія",
+                                "name": "Молокія",
+                                "image": "https://gotoshop.ua/img/brands/1607508666-3.png?t=t1607508666",
+                                "url": "https://gotoshop.ua/?brand_id=7329"
+                        }
+                ]
+        },
+        {
+                "id": "2925586",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Твердий сир, сир, десерти сиркові",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925586-163503-410316455368185011-336.jpg?t=t1645536728",
+                        "w": 336,
+                        "h": 440
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925586-163503-410316455368185011.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 1340
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-410316455368185011/",
+                "liked": 0,
+                "desc": "Твердий сир, сир, десерти сиркові. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "5451",
+                                "nameru": "Славия",
+                                "name_orig": "Славія",
+                                "name": "Славія",
+                                "image": "https://gotoshop.ua/img/brands/1607860052-10.png?t=t1607860052",
+                                "url": "https://gotoshop.ua/?brand_id=5451"
+                        }
+                ]
+        },
+        {
+                "id": "2925585",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Твердий сир, сир, десерти сиркові",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925585-163503-666316455368181369-336.jpg?t=t1645536728",
+                        "w": 336,
+                        "h": 505
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925585-163503-666316455368181369.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 1538
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-666316455368181369/",
+                "liked": 0,
+                "desc": "Твердий сир, сир, десерти сиркові. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "5451",
+                                "nameru": "Славия",
+                                "name_orig": "Славія",
+                                "name": "Славія",
+                                "image": "https://gotoshop.ua/img/brands/1607860052-10.png?t=t1607860052",
+                                "url": "https://gotoshop.ua/?brand_id=5451"
+                        }
+                ]
+        },
+        {
+                "id": "2891917",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Твердий сир, сир, десерти сиркові",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891917-162332-757016444071526593-336.jpg?t=t1644407044",
+                        "w": 336,
+                        "h": 521
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891917-162332-757016444071526593.jpg?t=t1644407173",
+                        "w": 1024,
+                        "h": 1587
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-757016444071526593/",
+                "liked": 0,
+                "desc": "Твердий сир, сир, десерти сиркові. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "4821",
+                                "nameru": "Звени Гора",
+                                "name_orig": "Звени Гора",
+                                "name": "Звени Гора",
+                                "image": "https://gotoshop.ua/img/brands/1607508360-9.png?t=t1607508360",
+                                "url": "https://gotoshop.ua/?brand_id=4821"
+                        }
+                ]
+        },
+        {
+                "id": "2891908",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Твердий сир, сир, десерти сиркові",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891908-162332-591616444071524865-336.jpg?t=t1644407035",
+                        "w": 336,
+                        "h": 463
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891908-162332-591616444071524865.jpg?t=t1644407172",
+                        "w": 1024,
+                        "h": 1412
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-591616444071524865/",
+                "liked": 0,
+                "desc": "Твердий сир, сир, десерти сиркові. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "2083",
+                                "nameru": "",
+                                "name_orig": "Hochland",
+                                "name": "Хохланд",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=2083"
+                        }
+                ]
+        },
+        {
+                "id": "2891907",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Твердий сир, сир, десерти сиркові",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891907-162332-437816444071521062-336.jpg?t=t1644407034",
+                        "w": 336,
+                        "h": 404
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891907-162332-437816444071521062.jpg?t=t1644407172",
+                        "w": 1024,
+                        "h": 1232
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-437816444071521062/",
+                "liked": 0,
+                "desc": "Твердий сир, сир, десерти сиркові. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "5427",
+                                "nameru": "",
+                                "name_orig": "Пирятин",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5427"
+                        }
+                ]
+        }
+]

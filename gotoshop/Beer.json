@@ -1,0 +1,751 @@
+[
+        {
+                "id": "2927414",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163568",
+                "image_contains_price": "1",
+                "startdate": "2022-02-28 00:00:00",
+                "enddate": "2022-03-06 00:00:00",
+                "name2": "",
+                "name": "Пиво, пивні напої",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927414-163568-758016456198695499-336.jpg?t=t1645619803",
+                        "w": 336,
+                        "h": 527
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163568/2927414-163568-758016456198695499.jpg?t=t1645619889",
+                        "w": 1024,
+                        "h": 1607
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "51"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>5</span> днів",
+                "date": "28 Лютого - 6 Березня 2022",
+                "discount_name": "Товар тижня!",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163568-758016456198695499/",
+                "liked": 0,
+                "desc": "Пиво, пивні напої. \"Товар тижня! (28 Лютого - 6 Березня 2022)\" від супермаркетів Велика Кишеня, Велмарт в місті ",
+                "discount_url": "/kharkov/discounts/kopiya-tovar-tizhnya-22-02-2022-22-02-2022-velmart-velika-kishenya/",
+                "brands": []
+        },
+        {
+                "id": "2929720",
+                "pricebefore": "21.99",
+                "priceafter": "15.99",
+                "discount_type": "",
+                "discount": "27",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pivo-tuborg-green",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пиво Tuborg Green, 0,5л",
+                "name": "Пиво Tuborg Green, 0,5л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929720-163598-pivo-tuborg-green-05l-336.jpg?t=t1645655654",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929720-163598-pivo-tuborg-green-05l.jpg?t=t1645655703",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pivo-tuborg-green-05l/",
+                "liked": 0,
+                "desc": "Пиво Tuborg Green, 0,5л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4271",
+                                "nameru": "Туборг",
+                                "name_orig": "Tuborg",
+                                "name": "Туборг",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4271"
+                        }
+                ]
+        },
+        {
+                "id": "2929718",
+                "pricebefore": "46.19",
+                "priceafter": "24.99",
+                "discount_type": "",
+                "discount": "46",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pivo-estrella-damm-barcelona-svitle",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пиво Estrella Damm Barcelona світле, 0,5л",
+                "name": "Пиво Estrella Damm Barcelona світле, 0,5л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929718-163598-pivo-estrella-damm-barcelona-svitle-05l-336.jpg?t=t1645655654",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929718-163598-pivo-estrella-damm-barcelona-svitle-05l.jpg?t=t1645655703",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pivo-estrella-damm-barcelona-svitle-05l/",
+                "liked": 0,
+                "desc": "Пиво Estrella Damm Barcelona світле, 0,5л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "1505",
+                                "nameru": "",
+                                "name_orig": "Estrella",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1505"
+                        },
+                        {
+                                "id": "7306",
+                                "nameru": "Естрелла Демм",
+                                "name_orig": "Estrella Damm",
+                                "name": "Естрелла Демм",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7306"
+                        }
+                ]
+        },
+        {
+                "id": "2929717",
+                "pricebefore": "54.99",
+                "priceafter": "37.99",
+                "discount_type": "",
+                "discount": "31",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pivo-youngs-double-chocolate-stout",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пиво Young's Double Chocolate Stout, 0,44л",
+                "name": "Пиво Young's Double Chocolate Stout, 0,44л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929717-163598-pivo-youngs-double-chocolate-stout-044l-336.jpg?t=t1645655653",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929717-163598-pivo-youngs-double-chocolate-stout-044l.jpg?t=t1645655703",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pivo-youngs-double-chocolate-stout-044l/",
+                "liked": 0,
+                "desc": "Пиво Young's Double Chocolate Stout, 0,44л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "4562",
+                                "nameru": "",
+                                "name_orig": "Young's",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=4562"
+                        }
+                ]
+        },
+        {
+                "id": "2929713",
+                "pricebefore": "50.49",
+                "priceafter": "37.99",
+                "discount_type": "",
+                "discount": "25",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pivo-persha-privatna-brovarnia-zakarpatske-originalne-svitle",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пиво «Перша приватна броварня» «Закарпатське» оригінальне світле, 2л",
+                "name": "Пиво «Перша приватна броварня» «Закарпатське» оригінальне світле, 2л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929713-163598-pivo-persha-privatna-brovarnya-zakarpatske-originalne-svitle-2l-336.jpg?t=t1645655653",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929713-163598-pivo-persha-privatna-brovarnya-zakarpatske-originalne-svitle-2l.jpg?t=t1645655703",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "1",
+                "countMinus": 1,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pivo-persha-privatna-brovarnya-zakarpatske-originalne-svitle-2l/",
+                "liked": 0,
+                "desc": "Пиво «Перша приватна броварня» «Закарпатське» оригінальне світле, 2л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "7799",
+                                "nameru": "Закарпатское",
+                                "name_orig": "Закарпатське",
+                                "name": "Закарпатське",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7799"
+                        }
+                ]
+        },
+        {
+                "id": "2929706",
+                "pricebefore": "49.99",
+                "priceafter": "37.99",
+                "discount_type": "",
+                "discount": "24",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pivo-limburgse-witte-svitle",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пиво Limburgse Witte світле, 0,5л",
+                "name": "Пиво Limburgse Witte світле, 0,5л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929706-163598-pivo-limburgse-witte-svitle-05l-336.jpg?t=t1645655652",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929706-163598-pivo-limburgse-witte-svitle-05l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pivo-limburgse-witte-svitle-05l/",
+                "liked": 0,
+                "desc": "Пиво Limburgse Witte світле, 0,5л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "2593",
+                                "nameru": "",
+                                "name_orig": "Limburgse Witte",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=2593"
+                        }
+                ]
+        },
+        {
+                "id": "2929701",
+                "pricebefore": "29.59",
+                "priceafter": "19.99",
+                "discount_type": "",
+                "discount": "32",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pivo-seth-rileys-garage-cherry-more",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пиво Seth&Riley's Garage Cherry&More, 0,44л",
+                "name": "Пиво Seth&Riley's Garage Cherry&More, 0,44л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929701-163598-pivo-sethrileys-garage-cherrymore-044l-336.jpg?t=t1645655651",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929701-163598-pivo-sethrileys-garage-cherrymore-044l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pivo-sethrileys-garage-cherrymore-044l/",
+                "liked": 0,
+                "desc": "Пиво Seth&Riley's Garage Cherry&More, 0,44л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "1759",
+                                "nameru": "Гараж",
+                                "name_orig": "Garage",
+                                "name": "Гараж",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1759"
+                        }
+                ]
+        },
+        {
+                "id": "2929698",
+                "pricebefore": "24.49",
+                "priceafter": "17.99",
+                "discount_type": "",
+                "discount": "27",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pivo-pubster-svitle-z-b",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пиво Pubster світле з/б, 0,5л",
+                "name": "Пиво Pubster світле з/б, 0,5л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929698-163598-pivo-pubster-svitle-z-b-05l-336.jpg?t=t1645655650",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929698-163598-pivo-pubster-svitle-z-b-05l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pivo-pubster-svitle-z-b-05l/",
+                "liked": 0,
+                "desc": "Пиво Pubster світле з/б, 0,5л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "13635",
+                                "nameru": "",
+                                "name_orig": "Pubster",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=13635"
+                        }
+                ]
+        },
+        {
+                "id": "2929694",
+                "pricebefore": "25.49",
+                "priceafter": "17.99",
+                "discount_type": "",
+                "discount": "29",
+                "externalurl": "https://silpo.ua/offers/cina-tyzhnya/pivo-golden-castle-export-svitle-z-b",
+                "discounts_id": "163598",
+                "image_contains_price": "0",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "Пиво Golden Castle Export світле з/б, 0,5л",
+                "name": "Пиво Golden Castle Export світле з/б, 0,5л",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929694-163598-pivo-golden-castle-export-svitle-z-b-05l-336.jpg?t=t1645655650",
+                        "w": 336,
+                        "h": 271
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163598/2929694-163598-pivo-golden-castle-export-svitle-z-b-05l.jpg?t=t1645655702",
+                        "w": 1024,
+                        "h": 827
+                },
+                "countPlus": "2",
+                "countMinus": 0,
+                "shops_ids": [
+                        "4"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "24 Лютого - 2 Березня 2022",
+                "discount_name": "Ціна тижня",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163598-pivo-golden-castle-export-svitle-z-b-05l/",
+                "liked": 0,
+                "desc": "Пиво Golden Castle Export світле з/б, 0,5л. \"Ціна тижня (24 Лютого - 2 Березня 2022)\" від супермаркетів Сільпо в місті ",
+                "discount_url": "/chernigov/discounts/cina-tizhnya-24-02-2022-02-03-2022-silpo/",
+                "brands": [
+                        {
+                                "id": "15624",
+                                "nameru": "",
+                                "name_orig": "Golden Castle",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=15624"
+                        }
+                ]
+        },
+        {
+                "id": "2925550",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Пиво, пивні напої",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925550-163503-485616455368173098-336.jpg?t=t1645536708",
+                        "w": 336,
+                        "h": 422
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925550-163503-485616455368173098.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 1286
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-485616455368173098/",
+                "liked": 0,
+                "desc": "Пиво, пивні напої. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "4658",
+                                "nameru": "Балтика",
+                                "name_orig": "Балтика",
+                                "name": "Балтика",
+                                "image": "https://gotoshop.ua/img/brands/1607511395-7.png?t=t1607511395",
+                                "url": "https://gotoshop.ua/?brand_id=4658"
+                        }
+                ]
+        },
+        {
+                "id": "2925549",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Пиво, пивні напої",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925549-163503-412616455368178730-336.jpg?t=t1645536708",
+                        "w": 336,
+                        "h": 409
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925549-163503-412616455368178730.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 1245
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-412616455368178730/",
+                "liked": 0,
+                "desc": "Пиво, пивні напої. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "10206",
+                                "nameru": "Пивный Кубек",
+                                "name_orig": "Piwny Kubek",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=10206"
+                        }
+                ]
+        },
+        {
+                "id": "2925548",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Пиво, пивні напої",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925548-163503-497816455368171505-336.jpg?t=t1645536707",
+                        "w": 336,
+                        "h": 364
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925548-163503-497816455368171505.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 1110
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-497816455368171505/",
+                "liked": 0,
+                "desc": "Пиво, пивні напої. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "3995",
+                                "nameru": "Старопрамен",
+                                "name_orig": "Staropramen",
+                                "name": "Старопрамен",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=3995"
+                        }
+                ]
+        },
+        {
+                "id": "2925546",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Пиво, пивні напої",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925546-163503-990416455368174082-336.jpg?t=t1645536706",
+                        "w": 336,
+                        "h": 277
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925546-163503-990416455368174082.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 845
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/163503-990416455368174082/",
+                "liked": 0,
+                "desc": "Пиво, пивні напої. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "4945",
+                                "nameru": "Львовское",
+                                "name_orig": "Львівське",
+                                "name": "Львівське",
+                                "image": "https://gotoshop.ua/img/brands/1607508417-6.png?t=t1607508417",
+                                "url": "https://gotoshop.ua/?brand_id=4945"
+                        }
+                ]
+        },
+        {
+                "id": "2891879",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162332",
+                "image_contains_price": "1",
+                "startdate": "2022-02-17 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Пиво, пивні напої",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891879-162332-382216444071522742-336.jpg?t=t1644407003",
+                        "w": 336,
+                        "h": 401
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162332/2891879-162332-382216444071522742.jpg?t=t1644407170",
+                        "w": 1024,
+                        "h": 1221
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "104"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "17 Лютого - 2 Березня 2022",
+                "discount_name": "Каталог \"Масляна\"",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162332-382216444071522742/",
+                "liked": 0,
+                "desc": "Пиво, пивні напої. \"Каталог \"Масляна\" (17 Лютого - 2 Березня 2022)\" від супермаркетів Вопак в місті ",
+                "discount_url": "/uzhgorod/discounts/katalog-maslyana-17-02-2022-02-03-2022-vopak/",
+                "brands": [
+                        {
+                                "id": "5056",
+                                "nameru": "Перша приватна броварня (ППБ)",
+                                "name_orig": "Перша приватна броварня",
+                                "name": "Перша приватна броварня",
+                                "image": "https://gotoshop.ua/img/brands/1607508715-7.png?t=t1607508714",
+                                "url": "https://gotoshop.ua/?brand_id=5056"
+                        }
+                ]
+        },
+        {
+                "id": "2892520",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "162356",
+                "image_contains_price": "1",
+                "startdate": "2022-02-09 00:00:00",
+                "enddate": "2022-03-08 00:00:00",
+                "name2": "",
+                "name": "Пиво, пивні напої",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162356/2892520-162356-13916444166347917-336.jpg?t=t1644416588",
+                        "w": 336,
+                        "h": 267
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/162356/2892520-162356-13916444166347917.jpg?t=t1644416588",
+                        "w": 1024,
+                        "h": 814
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "1137"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>7</span> днів",
+                "date": "9 Лютого - 8 Березня 2022",
+                "discount_name": "Знижка на пиво Corona Extra",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/uzhgorod/products/162356-13916444166347917/",
+                "liked": 0,
+                "desc": "Пиво, пивні напої. \"Знижка на пиво Corona Extra (9 Лютого - 8 Березня 2022)\" від супермаркетів Дастор в місті ",
+                "discount_url": "/uzhgorod/discounts/znizhka-na-pivo-corona-extra-09-02-2022-08-03-2022-dastor/",
+                "brands": [
+                        {
+                                "id": "1091",
+                                "nameru": "",
+                                "name_orig": "Corona",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=1091"
+                        }
+                ]
+        }
+]

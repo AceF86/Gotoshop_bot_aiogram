@@ -1,0 +1,434 @@
+[
+        {
+                "id": "2929292",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163586",
+                "image_contains_price": "1",
+                "startdate": "2022-02-24 00:00:00",
+                "enddate": "2022-03-16 00:00:00",
+                "name2": "",
+                "name": "Кулінарні олії (оливкова олія, соняшникова олія)",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163586/2929292-163586-2162164563476085-336.jpg?t=t1645634653",
+                        "w": 336,
+                        "h": 447
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163586/2929292-163586-2162164563476085.jpg?t=t1645634775",
+                        "w": 1024,
+                        "h": 1363
+                },
+                "countPlus": "0",
+                "countMinus": 1,
+                "shops_ids": [
+                        "164"
+                ],
+                "comments": "0",
+                "daystitle": "Залишилося <span>15</span> днів",
+                "date": "24 Лютого - 16 Березня 2022",
+                "discount_name": "Акційний каталог",
+                "color": 2,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/perechin/products/163586-2162164563476085/",
+                "liked": 0,
+                "desc": "Кулінарні олії (оливкова олія, соняшникова олія). \"Акційний каталог (24 Лютого - 16 Березня 2022)\" від супермаркетів Копійочка в місті ",
+                "discount_url": "/buchach-ternopolskaya/discounts/akcijjnijj-katalog-24-02-2022-16-03-2022-kopijjochka/",
+                "brands": [
+                        {
+                                "id": "7473",
+                                "nameru": "Олияр",
+                                "name_orig": "Оліяр",
+                                "name": "Оліяр",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7473"
+                        }
+                ]
+        },
+        {
+                "id": "2925589",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Груші",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925589-163503-71816455368189629-336.jpg?t=t1645536733",
+                        "w": 336,
+                        "h": 256
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925589-163503-71816455368189629.jpg?t=t1645536844",
+                        "w": 1024,
+                        "h": 779
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/perechin/products/163503-71816455368189629/",
+                "liked": 0,
+                "desc": "Груші. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": []
+        },
+        {
+                "id": "2925561",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Борщові заправки",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925561-163503-9819164553681886-336.jpg?t=t1645536714",
+                        "w": 336,
+                        "h": 350
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925561-163503-9819164553681886.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 1066
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/perechin/products/163503-9819164553681886/",
+                "liked": 0,
+                "desc": "Борщові заправки. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "5310",
+                                "nameru": "Чумак",
+                                "name_orig": "Чумак",
+                                "name": "Чумак",
+                                "image": "https://gotoshop.ua/img/brands/1607509014-3.png?t=t1607509014",
+                                "url": "https://gotoshop.ua/?brand_id=5310"
+                        }
+                ]
+        },
+        {
+                "id": "2925560",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Майонез, майонезний соус",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925560-163503-987916455368185162-336.jpg?t=t1645536713",
+                        "w": 336,
+                        "h": 328
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925560-163503-987916455368185162.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 999
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/perechin/products/163503-987916455368185162/",
+                "liked": 0,
+                "desc": "Майонез, майонезний соус. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "7316",
+                                "nameru": "Королевский вкус",
+                                "name_orig": "Королівський смак",
+                                "name": "Королівський смак",
+                                "image": "https://gotoshop.ua/img/brands/1607508403-2.png?t=t1607508403",
+                                "url": "https://gotoshop.ua/?brand_id=7316"
+                        }
+                ]
+        },
+        {
+                "id": "2925557",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Картопля",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925557-163503-717616455368184148-336.jpg?t=t1645536712",
+                        "w": 336,
+                        "h": 372
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925557-163503-717616455368184148.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 1134
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/perechin/products/163503-717616455368184148/",
+                "liked": 0,
+                "desc": "Картопля. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": []
+        },
+        {
+                "id": "2925556",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Майонез, майонезний соус",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925556-163503-984116455368184875-336.jpg?t=t1645536711",
+                        "w": 336,
+                        "h": 324
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925556-163503-984116455368184875.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 987
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/perechin/products/163503-984116455368184875/",
+                "liked": 0,
+                "desc": "Майонез, майонезний соус. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "7301",
+                                "nameru": "Мак Май",
+                                "name_orig": "Мак Май",
+                                "name": "Мак Май",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=7301"
+                        }
+                ]
+        },
+        {
+                "id": "2925555",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Рис, рисова крупа",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925555-163503-7629164553681745-336.jpg?t=t1645536710",
+                        "w": 336,
+                        "h": 336
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925555-163503-7629164553681745.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 1024
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/perechin/products/163503-7629164553681745/",
+                "liked": 0,
+                "desc": "Рис, рисова крупа. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "9058",
+                                "nameru": "",
+                                "name_orig": "Зерновита",
+                                "name": "",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=9058"
+                        }
+                ]
+        },
+        {
+                "id": "2925554",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Кулінарні олії (оливкова олія, соняшникова олія)",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925554-163503-622216455368176868-336.jpg?t=t1645536710",
+                        "w": 336,
+                        "h": 349
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925554-163503-622216455368176868.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 1063
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/perechin/products/163503-622216455368176868/",
+                "liked": 0,
+                "desc": "Кулінарні олії (оливкова олія, соняшникова олія). \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "5036",
+                                "nameru": "Олейна",
+                                "name_orig": "Олейна",
+                                "name": "Олейна",
+                                "image": "",
+                                "url": "https://gotoshop.ua/?brand_id=5036"
+                        }
+                ]
+        },
+        {
+                "id": "2925553",
+                "pricebefore": "",
+                "priceafter": "",
+                "discount_type": "",
+                "discount": "",
+                "externalurl": "",
+                "discounts_id": "163503",
+                "image_contains_price": "1",
+                "startdate": "2022-02-22 00:00:00",
+                "enddate": "2022-03-02 00:00:00",
+                "name2": "",
+                "name": "Майонез, майонезний соус",
+                "image336": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925553-163503-70501645536817129-336.jpg?t=t1645536709",
+                        "w": 336,
+                        "h": 337
+                },
+                "imagefull": {
+                        "src": "https://gotoshop.ua/img/p/2022/02/163503/2925553-163503-70501645536817129.jpg?t=t1645536843",
+                        "w": 1024,
+                        "h": 1027
+                },
+                "countPlus": "0",
+                "countMinus": 0,
+                "shops_ids": [
+                        "2047"
+                ],
+                "comments": "0",
+                "daystitle": "Закінчується сьогодні",
+                "date": "22 Лютого - 2 Березня 2022",
+                "discount_name": "Проводимо зиму гарячими знижками! ",
+                "color": 1,
+                "noted": 0,
+                "notalladdr": 0,
+                "url": "https://gotoshop.ua/perechin/products/163503-70501645536817129/",
+                "liked": 0,
+                "desc": "Майонез, майонезний соус. \"Проводимо зиму гарячими знижками!  (22 Лютого - 2 Березня 2022)\" від супермаркетів Амбар Маркет в місті ",
+                "discount_url": "/uzhgorod/discounts/provodimo-zimu-garyachimi-znizhkami-22-02-2022-02-03-2022-ambar-market/",
+                "brands": [
+                        {
+                                "id": "5353",
+                                "nameru": "Наша Ряба",
+                                "name_orig": "Наша Ряба",
+                                "name": "Наша Ряба",
+                                "image": "https://gotoshop.ua/img/brands/1607508692-0.png?t=t1607508692",
+                                "url": "https://gotoshop.ua/?brand_id=5353"
+                        }
+                ]
+        }
+]
